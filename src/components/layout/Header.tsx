@@ -10,17 +10,17 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <header className="bg-navy text-white sticky top-0 z-50 shadow-lg">
+    <header className="bg-white text-gray-800 sticky top-0 z-50 border-b border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 shrink-0">
-            <div className="w-10 h-10 bg-amber rounded-sm flex items-center justify-center font-bold text-navy text-lg">
+            <div className="w-10 h-10 bg-gray-900 rounded-sm flex items-center justify-center font-bold text-white text-lg">
               P
             </div>
             <div className="hidden sm:block">
-              <div className="text-sm font-semibold leading-tight">Marko Pfaff &amp; Co.</div>
-              <div className="text-xs text-blue-light leading-tight">Spezialfahrzeugbau</div>
+              <div className="text-sm font-semibold leading-tight text-gray-900">Marko Pfaff &amp; Co.</div>
+              <div className="text-xs text-gray-400 leading-tight">Spezialfahrzeugbau</div>
             </div>
           </Link>
 
@@ -35,7 +35,7 @@ export default function Header() {
               >
                 <Link
                   href={item.href}
-                  className="px-3 py-2 text-sm font-medium hover:text-amber transition-colors rounded"
+                  className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors rounded"
                 >
                   {item.label}
                   {item.children && (
@@ -46,12 +46,12 @@ export default function Header() {
                 </Link>
 
                 {item.children && openDropdown === item.href && (
-                  <div className="absolute top-full left-0 mt-0 w-56 bg-white rounded-b-lg shadow-xl py-2 z-50">
+                  <div className="absolute top-full left-0 mt-0 w-56 bg-white rounded-b-lg shadow-xl py-2 z-50 border border-gray-100">
                     {item.children.map((child) => (
                       <Link
                         key={child.href}
                         href={child.href}
-                        className="block px-4 py-2 text-sm text-navy hover:bg-warm-white hover:text-blue transition-colors"
+                        className="block px-4 py-2 text-sm text-gray-600 hover:bg-gray-50 hover:text-gray-900 transition-colors"
                       >
                         {child.label}
                       </Link>
@@ -66,13 +66,13 @@ export default function Header() {
           <div className="flex items-center gap-3">
             <Link
               href="/kontakt"
-              className="hidden sm:inline-flex items-center px-4 py-2 bg-amber hover:bg-amber-light text-navy font-semibold text-sm rounded transition-colors"
+              className="hidden sm:inline-flex items-center px-4 py-2 bg-gray-900 hover:bg-gray-800 text-white font-semibold text-sm rounded transition-colors"
             >
               Projekt anfragen
             </Link>
 
             <button
-              className="lg:hidden p-2 hover:bg-navy-light rounded transition-colors"
+              className="lg:hidden p-2 hover:bg-gray-100 rounded transition-colors"
               onClick={() => setMobileOpen(!mobileOpen)}
               aria-label="Menu oeffnen"
             >

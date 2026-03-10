@@ -3,21 +3,21 @@ import { COMPANY, CONTACT, SOCIAL, TRUST } from '@/lib/constants';
 
 export default function Footer() {
   return (
-    <footer className="bg-navy text-white">
+    <footer className="bg-gray-50 text-gray-600 border-t border-gray-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
           {/* Company Info */}
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <div className="w-10 h-10 bg-amber rounded-sm flex items-center justify-center font-bold text-navy text-lg">
+              <div className="w-10 h-10 bg-gray-900 rounded-sm flex items-center justify-center font-bold text-white text-lg">
                 P
               </div>
               <div>
-                <div className="text-sm font-semibold">Marko Pfaff &amp; Co.</div>
-                <div className="text-xs text-blue-light">Spezialfahrzeugbau GmbH</div>
+                <div className="text-sm font-semibold text-gray-900">Marko Pfaff &amp; Co.</div>
+                <div className="text-xs text-gray-400">Spezialfahrzeugbau GmbH</div>
               </div>
             </div>
-            <p className="text-sm text-slate-300 mb-4">
+            <p className="text-sm text-gray-500 mb-4">
               Seit {COMPANY.gruendung} fertigen wir individuelle Spezialfahrzeuge —
               von Weihnachtsmarkthuetten ueber Wohnwagen bis zu Uebertragungswagen.
             </p>
@@ -26,7 +26,7 @@ export default function Footer() {
                 href={SOCIAL.facebook}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-9 h-9 bg-navy-light rounded flex items-center justify-center hover:bg-blue transition-colors"
+                className="w-9 h-9 bg-gray-200 rounded flex items-center justify-center hover:bg-gray-300 transition-colors text-gray-600"
                 aria-label="Facebook"
               >
                 <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
@@ -38,7 +38,7 @@ export default function Footer() {
 
           {/* Quick Links */}
           <div>
-            <h3 className="text-sm font-semibold uppercase tracking-wider text-amber mb-4">Fahrzeuge</h3>
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-4">Fahrzeuge</h3>
             <ul className="space-y-2">
               {[
                 ['Weihnachtsmarkt-Huetten', '/fahrzeuge/weihnachtsmarkt'],
@@ -49,7 +49,7 @@ export default function Footer() {
                 ['Sonder- & Messebau', '/fahrzeuge/sonderbau'],
               ].map(([label, href]) => (
                 <li key={href}>
-                  <Link href={href} className="text-sm text-slate-300 hover:text-white transition-colors">
+                  <Link href={href} className="text-sm text-gray-500 hover:text-gray-900 transition-colors">
                     {label}
                   </Link>
                 </li>
@@ -59,7 +59,7 @@ export default function Footer() {
 
           {/* Company Links */}
           <div>
-            <h3 className="text-sm font-semibold uppercase tracking-wider text-amber mb-4">Unternehmen</h3>
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-4">Unternehmen</h3>
             <ul className="space-y-2">
               {[
                 ['Ueber uns', '/ueber-uns'],
@@ -70,7 +70,7 @@ export default function Footer() {
                 ['Datenschutz', '/datenschutz'],
               ].map(([label, href]) => (
                 <li key={href}>
-                  <Link href={href} className="text-sm text-slate-300 hover:text-white transition-colors">
+                  <Link href={href} className="text-sm text-gray-500 hover:text-gray-900 transition-colors">
                     {label}
                   </Link>
                 </li>
@@ -80,35 +80,35 @@ export default function Footer() {
 
           {/* Contact + Certifications */}
           <div>
-            <h3 className="text-sm font-semibold uppercase tracking-wider text-amber mb-4">Kontakt</h3>
-            <address className="not-italic text-sm text-slate-300 space-y-2 mb-6">
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-4">Kontakt</h3>
+            <address className="not-italic text-sm text-gray-500 space-y-2 mb-6">
               <p>{CONTACT.strasse}</p>
               <p>{CONTACT.plz} {CONTACT.ort}</p>
               <p>
-                <a href={`tel:${CONTACT.telefon}`} className="hover:text-white transition-colors">
+                <a href={`tel:${CONTACT.telefon}`} className="hover:text-gray-900 transition-colors">
                   Tel: {CONTACT.telefonDisplay}
                 </a>
               </p>
               <p>
-                <a href={`mailto:${CONTACT.email}`} className="hover:text-white transition-colors">
+                <a href={`mailto:${CONTACT.email}`} className="hover:text-gray-900 transition-colors">
                   {CONTACT.email}
                 </a>
               </p>
             </address>
 
-            <h3 className="text-sm font-semibold uppercase tracking-wider text-amber mb-3">Zertifizierungen</h3>
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-3">Zertifizierungen</h3>
             <div className="flex flex-wrap gap-2">
               {TRUST.zertifizierungen.map((cert) => (
                 <span
                   key={cert.name}
-                  className="px-2 py-1 bg-navy-light rounded text-xs text-slate-300"
+                  className="px-2 py-1 bg-gray-200 rounded text-xs text-gray-600"
                   title={cert.beschreibung}
                 >
                   {cert.name}
                 </span>
               ))}
               {TRUST.dekra && (
-                <span className="px-2 py-1 bg-navy-light rounded text-xs text-slate-300">
+                <span className="px-2 py-1 bg-gray-200 rounded text-xs text-gray-600">
                   DEKRA
                 </span>
               )}
@@ -117,7 +117,7 @@ export default function Footer() {
         </div>
 
         {/* Bottom Bar */}
-        <div className="mt-12 pt-8 border-t border-navy-light flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-slate-400">
+        <div className="mt-12 pt-8 border-t border-gray-200 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-gray-400">
           <p>&copy; {new Date().getFullYear()} {COMPANY.name}. Alle Rechte vorbehalten.</p>
           <p>{COMPANY.handelsregister}</p>
         </div>

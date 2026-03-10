@@ -12,14 +12,14 @@ export default function MobileNav({ onClose }: MobileNavProps) {
   const [expandedItem, setExpandedItem] = useState<string | null>(null);
 
   return (
-    <div className="lg:hidden bg-navy border-t border-navy-light">
+    <div className="lg:hidden bg-white border-t border-gray-100">
       <div className="px-4 py-3 space-y-1">
         {NAV_ITEMS.map((item) => (
           <div key={item.href}>
             <div className="flex items-center justify-between">
               <Link
                 href={item.href}
-                className="block py-2 text-sm font-medium hover:text-amber transition-colors"
+                className="block py-2 text-sm font-medium text-gray-700 hover:text-gray-900 transition-colors"
                 onClick={onClose}
               >
                 {item.label}
@@ -27,7 +27,7 @@ export default function MobileNav({ onClose }: MobileNavProps) {
               {item.children && (
                 <button
                   onClick={() => setExpandedItem(expandedItem === item.href ? null : item.href)}
-                  className="p-2 hover:bg-navy-light rounded"
+                  className="p-2 hover:bg-gray-100 rounded text-gray-500"
                   aria-label={`${item.label} aufklappen`}
                 >
                   <svg
@@ -48,7 +48,7 @@ export default function MobileNav({ onClose }: MobileNavProps) {
                   <Link
                     key={child.href}
                     href={child.href}
-                    className="block py-1.5 text-sm text-blue-light hover:text-amber transition-colors"
+                    className="block py-1.5 text-sm text-gray-500 hover:text-gray-900 transition-colors"
                     onClick={onClose}
                   >
                     {child.label}
@@ -61,7 +61,7 @@ export default function MobileNav({ onClose }: MobileNavProps) {
 
         <Link
           href="/kontakt"
-          className="block mt-3 text-center px-4 py-2.5 bg-amber hover:bg-amber-light text-navy font-semibold text-sm rounded transition-colors"
+          className="block mt-3 text-center px-4 py-2.5 bg-gray-900 hover:bg-gray-800 text-white font-semibold text-sm rounded transition-colors"
           onClick={onClose}
         >
           Projekt anfragen

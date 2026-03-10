@@ -157,7 +157,7 @@ export default async function KategorieSeite({ params }: Props) {
           </p>
           <Link
             href="/kontakt"
-            className="inline-flex px-8 py-3 bg-amber hover:bg-amber-light text-navy font-semibold rounded transition-colors"
+            className="inline-flex px-8 py-3 bg-white hover:bg-gray-100 text-gray-900 font-semibold rounded transition-colors"
           >
             Jetzt unverbindlich anfragen
           </Link>

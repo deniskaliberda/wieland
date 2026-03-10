@@ -89,7 +89,7 @@ export default function SpezialfahrzeugbauPage() {
               <p className="text-slate-300 mb-4">
                 1.000 m² Werkstatt mit Dreherei, Schweisserei, Lackierkabine und Schreinerei.
               </p>
-              <span className="inline-flex items-center gap-1 text-amber font-medium text-sm group-hover:gap-2 transition-all">
+              <span className="inline-flex items-center gap-1 text-gray-300 font-medium text-sm group-hover:gap-2 transition-all">
                 Mehr erfahren
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -104,7 +104,7 @@ export default function SpezialfahrzeugbauPage() {
               <p className="text-slate-300 mb-4">
                 WIG, MAG, MIG und Autogenschweissen — DIN EN ISO 3834 zertifiziert.
               </p>
-              <span className="inline-flex items-center gap-1 text-amber font-medium text-sm group-hover:gap-2 transition-all">
+              <span className="inline-flex items-center gap-1 text-gray-300 font-medium text-sm group-hover:gap-2 transition-all">
                 Mehr erfahren
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />

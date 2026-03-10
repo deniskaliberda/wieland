@@ -171,7 +171,7 @@ export default async function ProduktSeite({ params }: Props) {
                 <div className="flex flex-wrap gap-3">
                   <Link
                     href="/kontakt"
-                    className="px-5 py-2.5 bg-amber hover:bg-amber-light text-navy font-semibold text-sm rounded transition-colors"
+                    className="px-5 py-2.5 bg-gray-900 hover:bg-gray-800 text-white font-semibold text-sm rounded transition-colors"
                   >
                     Jetzt anfragen
                   </Link>

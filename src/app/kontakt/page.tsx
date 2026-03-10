@@ -174,7 +174,7 @@ export default function KontaktPage() {
                 </div>
                 <button
                   type="submit"
-                  className="w-full px-6 py-3 bg-amber hover:bg-amber-light text-navy font-semibold rounded transition-colors"
+                  className="w-full px-6 py-3 bg-gray-900 hover:bg-gray-800 text-white font-semibold rounded transition-colors"
                 >
                   Nachricht senden
                 </button>

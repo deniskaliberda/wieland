@@ -86,7 +86,7 @@ export default function KarrierePage() {
             </p>
             <a
               href={`mailto:${CONTACT.email}?subject=Initiativbewerbung`}
-              className="inline-flex px-6 py-3 bg-amber hover:bg-amber-light text-navy font-semibold rounded transition-colors"
+              className="inline-flex px-6 py-3 bg-white hover:bg-gray-100 text-gray-900 font-semibold rounded transition-colors"
             >
               Bewerbung senden
             </a>

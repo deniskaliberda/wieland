@@ -49,11 +49,12 @@ export const TRUST = {
 // === Design ===
 
 export const COLORS = {
-  navy: '#1a365d',
-  blue: '#2b6cb0',
-  amber: '#d97706',
-  warmWhite: '#fafaf9',
-  steel: '#475569',
+  navy: '#1a1a1a',
+  blue: '#3a3a3a',
+  amber: '#3a3a3a',
+  warmWhite: '#fafafa',
+  steel: '#6b7280',
+  accent: '#0170B9',
 } as const;
 
 // === Navigation ===
