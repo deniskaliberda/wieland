@@ -1,0 +1,73 @@
+{
+  "id": 4220,
+  "slug": "don-marcs-churros",
+  "name": "Don Marc&#8217;s Churros",
+  "artikelnummer": "HU-137-2021",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2021,
+  "kurzbeschreibung": "(Produkt-Nr. HU-137-2021) Dem Produkt entsprechend ist dieses Verkaufsgeschäft mediterran gestaltet. Spanisches Flair erzeugen hier die Ziegeloptik, eine außergewöhnliche Dachform sowie liebevoll ausgewählte Details wie Fliesen oder die individuelle Bemalung.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 5,0 m Gesamttiefe: ca. 3,60 m elektrische Aluminiumrollos klappbare Zuggabel ausschiebbarer Tresen Dach und Vordach mit Leichtbauwabenplatten und GFK Dachpfannen in Ziegelton Dach als Pultdach Dekoschornstein in Ziegeloptik an Zuggabelseite hydraulisches Vordach Werbeleuchtschrift Lichtleisten mit Kugellampen und LED Spots hochwertiger Innenausbau Designelemente und Lichtakzente Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/don-marcs-churros-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-137-2021-6-scaled.jpg?v=1765465265",
+      "alt": "Don Marc&#8217;s Churros — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/don-marcs-churros-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-137-2021-2-scaled.jpg?v=1765465266",
+      "alt": "Don Marc&#8217;s Churros — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/don-marcs-churros-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-137-2021-3-scaled.jpg?v=1765465266",
+      "alt": "Don Marc&#8217;s Churros — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/don-marcs-churros-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-137-2021-4-scaled.jpg?v=1765465266",
+      "alt": "Don Marc&#8217;s Churros — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/don-marcs-churros-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-137-2021-8-scaled.jpg?v=1765465265",
+      "alt": "Don Marc&#8217;s Churros — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/don-marcs-churros-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-137-2021-5-scaled.jpg?v=1765465266",
+      "alt": "Don Marc&#8217;s Churros — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/don-marcs-churros-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-137-2021-9-scaled.jpg?v=1765465265",
+      "alt": "Don Marc&#8217;s Churros — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/don-marcs-churros/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

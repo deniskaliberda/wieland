@@ -1,0 +1,60 @@
+{
+  "id": 3726,
+  "slug": "hu-040-2013-brezn-baeckerei",
+  "name": "Brezn Bäckerei",
+  "artikelnummer": "HU-040-2013",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2013,
+  "kurzbeschreibung": "(Produkt-Nr. HU-040-2013) Bayrischer Charme auch außerhalb des Oktoberfestes &#8211; mit einem kleinen und vor allem mobilen Verkaufsgeschäft&#8230;Versehen mit liebevollen Details, wie dem geschwungenen Dachfenster oder einem Ausleger in Schmiedeoptik der gleichzeitig als Käsespieß dient.",
+  "beschreibung": "Technische Daten: Gesamtlänge Hütte: ca. 5,0 m Gesamttiefe: ca. 3,65 m ausschiebbare Verkaufstheke Wasser-, Elektroinstallation Warmtheke Dach mit Holz-Schindeln beleuchtete Dachfenster Lichtleisten mit Kugellampen elektrische Aluminiumrollos hochwertiger Innenausbau Arbeitsflächen in Edelstahl zGG.: 2.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "500",
+    "gewichtLeer": "2500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-040-2013-brezn-baeckerei-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-040-2013__1__577.png?v=1765465389",
+      "alt": "Brezn Bäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-040-2013-brezn-baeckerei-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-040-2013__3__370-scaled.jpg?v=1765465548",
+      "alt": "Brezn Bäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-040-2013-brezn-baeckerei-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-040-2013__1__341-scaled.jpg?v=1765465655",
+      "alt": "Brezn Bäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-040-2013-brezn-baeckerei-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-040-2013__4__744-scaled.jpg?v=1765465541",
+      "alt": "Brezn Bäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-040-2013-brezn-baeckerei-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-040-2013__2__399-scaled.jpg?v=1765465425",
+      "alt": "Brezn Bäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-040-2013-brezn-baeckerei/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 3881,
+  "slug": "dsng-4",
+  "name": "DSNG 4",
+  "artikelnummer": "UW-009-2012",
+  "kategorie": "medienwagen",
+  "unterkategorie": "uebertragungswagen",
+  "baujahr": 2012,
+  "kurzbeschreibung": "(Produkt-Nr. UW-009-2012) Der digitale Sateliten-Übertragungswagen 5 (DSNG 5) erweitert die Flotte der Media Mobil GmbH um ein weiteres Fahrzeug, das den hohen Ansprüchen sowohl technisch als auch optisch gerecht wird. Die Sateliten-Übertragungswagen der Media Mobil GmbH arbeiten sowohl autonom, als auch als Uplink-Einheit der großen Ü-Wagen.",
+  "beschreibung": "Der digitale Satelliten-Übertragungswagen 5 (DSNG 5) erweitert die Flotte der Media Mobil GmbH um ein weiteres Fahrzeug, das den hohen Ansprüchen sowohl technisch als auch optisch gerecht wird. Die Satelliten-Übertragungswagen der Media Mobil GmbH arbeiten sowohl autonom, als auch als Uplink-Einheit der großen Ü-Wagen. Technische Daten: Umbau MB Sprinter 5,5t Komplette Isolierung des Arbeits- und Rüstraumes sowie komplette Wandverkleidung Installation Dachklimaanlage TRUMA inklusive Luftverteilung Installation Gestellklimaanlage TRUMA Abtrennung durch Zwischenwand mit integriertem 3 x 19“ Rack Installation LED Beleuchtung Installation elektrische Anlage inklusive SPS Steuerung Montage diverser Dachaufbauelemente Montage und Installation Kathrein Rückempfangsanlage CAP 910 Montage Heckleiter Fußbodenheizung im Arbeitsbereich Hochwertiger Innenausbau der Tischlerei Pfaff Klapptische zur Arbeitsplatzerweiterung Integration von diversen Technikkomponenten Montage und Integration von Flachbildschirmen Integration eines Fischer Panda Generators – mit wartungsfreundlichem Ausschubsystem Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "gewichtLeer": "5500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/medienwagen/dsng-4-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/Fahrzeugbau-Pfaff-Media-Mobil-GmbH-DSNG-1-scaled.jpg?v=1765465319",
+      "alt": "DSNG 4 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/medienwagen/dsng-4-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/Fahrzeugbau-Pfaff-Media-Mobil-GmbH-DSNG-1-scaled.jpg?v=1765465319",
+      "alt": "DSNG 4 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/medienwagen/dsng-4-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/Fahrzeugbau-Pfaff-Media-Mobil-GmbH-DSNG-7-scaled.jpg?v=1765465318",
+      "alt": "DSNG 4 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/medienwagen/dsng-4-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/Fahrzeugbau-Pfaff-Media-Mobil-GmbH-DSNG-3-scaled.jpg?v=1765465319",
+      "alt": "DSNG 4 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/medienwagen/dsng-4-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/Fahrzeugbau-Pfaff-Media-Mobil-GmbH-DSNG-4-scaled.jpg?v=1765465319",
+      "alt": "DSNG 4 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/dsng-4/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

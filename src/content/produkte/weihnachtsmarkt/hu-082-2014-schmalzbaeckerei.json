@@ -1,0 +1,60 @@
+{
+  "id": 3709,
+  "slug": "hu-082-2014-schmalzbaeckerei",
+  "name": "Schmalzbäckerei",
+  "artikelnummer": "HU-082-2014",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2014,
+  "kurzbeschreibung": "(Produkt-Nr. HU-082-2014) Kräppelchen und Quarkbällchen zu jeder Jahreszeit&#8230;unterwegs mit einem 2-Achs-Verkaufsanhänger!",
+  "beschreibung": "Technische Daten: Gesamtlänge Hütte: ca. 6,0 m Gesamttiefe: ca. 3,4 m Verkaufstheke mit Handtaschenablage Gas-, Wasser-, Elektroinstallation Arbeitsfläche mit robuster Resopal-Beschichtung hydraulische Abstützung Dach mit Echtholzschindeln Lichtleisten mit Kugellampen Ausleger in Schmiedeoptik elektrische Aluminiumrollos hochwertiger Innenausbau zGG.: 3.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "600",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-082-2014-schmalzbaeckerei-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_0358-1_591-scaled.jpg?v=1765465563",
+      "alt": "Schmalzbäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-082-2014-schmalzbaeckerei-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_0317-1_608-scaled.jpg?v=1765465477",
+      "alt": "Schmalzbäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-082-2014-schmalzbaeckerei-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_0354-1_765-scaled.jpg?v=1765465540",
+      "alt": "Schmalzbäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-082-2014-schmalzbaeckerei-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_0330-1_906-scaled.jpg?v=1765465519",
+      "alt": "Schmalzbäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-082-2014-schmalzbaeckerei-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_0304-1_388-scaled.jpg?v=1765465617",
+      "alt": "Schmalzbäckerei — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-082-2014-schmalzbaeckerei/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

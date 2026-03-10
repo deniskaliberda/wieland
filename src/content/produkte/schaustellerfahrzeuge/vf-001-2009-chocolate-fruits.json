@@ -1,0 +1,59 @@
+{
+  "id": 3607,
+  "slug": "vf-001-2009-chocolate-fruits",
+  "name": "Chocolate &amp; Fruits",
+  "artikelnummer": "VF-001-2009",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2009,
+  "kurzbeschreibung": "(Produkt-Nr. VF-001-2009) Ein Verkaufscontainer, der nicht nur Blicke anzieht. Mit einem hydraulisch ausfahrbarem Erker, einem ausklapp- barem Vorbereitungsraum und einer verschiebbaren Kühltheke bietet dieser Verkaufscontainer ein enormes Platzangebot und bietet eine optimale Arbeitsatmosphäre.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 10,0 m Containerlänge: 8,0 m Aufbauhöhe: 4,8 m Transport: mittels 2 separater Achsmodule komplette Hydraulikanlage elektrisches Aluminiumrollo Kühltheke der Firma Pfaff kompletter und hochwertiger Innenausbau der Tischlerei Pfaff Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellun- gen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "1000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-001-2009-chocolate-fruits-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2010/05/DSC_0532-3-scaled-e1722504350259.jpg?v=1765465265",
+      "alt": "Chocolate &amp; Fruits — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-001-2009-chocolate-fruits-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0532__2__239-scaled.jpg?v=1765465435",
+      "alt": "Chocolate &amp; Fruits — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-001-2009-chocolate-fruits-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0532__1__409-scaled.jpg?v=1765465587",
+      "alt": "Chocolate &amp; Fruits — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-001-2009-chocolate-fruits-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/chocolate_617-scaled.jpg?v=1765465469",
+      "alt": "Chocolate &amp; Fruits — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-001-2009-chocolate-fruits-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0532__4__294-scaled.jpg?v=1765465672",
+      "alt": "Chocolate &amp; Fruits — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-001-2009-chocolate-fruits/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

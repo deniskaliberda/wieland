@@ -1,0 +1,67 @@
+{
+  "id": 3732,
+  "slug": "hu-031-2011-crepe-rustikal",
+  "name": "Crepè Rustikal",
+  "artikelnummer": "HU-031-2011",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2011,
+  "kurzbeschreibung": "(Produkt-Nr. HU-031-2011) Mit kleinen Geschäften GROSSES erreichen &#8211; Dank des separaten Anbaus kann die Verkaufs- und Arbeitsfläche erweitert werden, und macht auch dieses Geschäft zu einem mobilen Platzwunder.",
+  "beschreibung": "Technische Daten: Gesamtlänge Hütte: ca. 4,4 m Gesamttiefe: ca. 3,6 m ausschiebbare Verkaufstheke drei Verkaufsöffnungen Gas-, Wasser-, Elektroinstallation manuelle Kurbelstützen Dach mit Echtholzschindeln belegt Schmucktürmchen, Gaube Lichtleisten mit Kugellampen elektrische Aluminiumrollos kleiner Seitenanbau (ca. 1,6 m) hochwertiger Innenausbau der Tischlerei Pfaff elektrohydraulisch absenkbare Achse zGG.: 2.500 kg Aufbauzeit: ca. 10 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "440",
+    "gewichtLeer": "2500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-031-2011-crepe-rustikal-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schausteller_crepe_verkauf__1__655-scaled.jpg?v=1765465518",
+      "alt": "Crepè Rustikal — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-031-2011-crepe-rustikal-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schausteller_crepe_verkauf__4__203-scaled.jpg?v=1765465417",
+      "alt": "Crepè Rustikal — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-031-2011-crepe-rustikal-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schausteller_crepe_verkauf__3__364-scaled.jpg?v=1765465624",
+      "alt": "Crepè Rustikal — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-031-2011-crepe-rustikal-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schausteller_crepe_verkauf__6__879-scaled.jpg?v=1765465534",
+      "alt": "Crepè Rustikal — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-031-2011-crepe-rustikal-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schausteller_crepe_verkauf__7__672-scaled.jpg?v=1765465430",
+      "alt": "Crepè Rustikal — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-031-2011-crepe-rustikal-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schausteller_crepe_verkauf__2__680-scaled.jpg?v=1765465490",
+      "alt": "Crepè Rustikal — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-031-2011-crepe-rustikal/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

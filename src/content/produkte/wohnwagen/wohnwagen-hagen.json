@@ -1,0 +1,88 @@
+{
+  "id": 3966,
+  "slug": "wohnwagen-hagen",
+  "name": "Wohnwagen Hagen",
+  "artikelnummer": "WW-040-2022",
+  "kategorie": "wohnwagen",
+  "unterkategorie": "wohnwagengt10tonnen",
+  "baujahr": 2022,
+  "kurzbeschreibung": "(Produkt-Nr. WW-040-2022) Die optimierte Raumaufteilung ermöglicht die maximale Ausnutzung des vorhandenen Wohnraumes. Dieser Leichtwohnwagen bietet neben einem geräumigen Schlafzimmer mit Übergang zum Bad, eine Wohn-Küchenzeile und ein Büroabteil.",
+  "beschreibung": "Technische Daten: Aufbaulänge: ca. 12,5 m Gesamtbreite: ca. 4,3 m 2-Achs-Drehschemelfahrgestell komplette Hydraulikanlage automatische Niveauregulierung hydraulische Erker Veranda mit Edelstahl- und Glasgeländer Fußbodenheizung und Klimaanlage gefliester Boden Schlaf- Badkombination große Einbaudusche Waschmaschine und Trockner Sideboard mit TV Wand gemütliche Sitzecke Busch-Jäger Licht- und Rolladensteuerung über Touch-Display Videoüberwachung RGB Akzentbereuchtung RGB Spanndecke + Deckenklima zGG.: 15.000 kg Stromanschluss: 63 A kompletter und hochwertiger Innenausbau Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "1250",
+    "gewichtLeer": "15000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-hagen-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/WW-040-2022-12-scaled.jpg?v=1765465300",
+      "alt": "Wohnwagen Hagen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-hagen-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/WW-040-2022-1-scaled.jpg?v=1765465302",
+      "alt": "Wohnwagen Hagen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-hagen-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/WW-040-2022-4-scaled.jpg?v=1765465302",
+      "alt": "Wohnwagen Hagen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-hagen-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/WW-040-2022-5-scaled.jpg?v=1765465301",
+      "alt": "Wohnwagen Hagen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-hagen-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/WW-040-2022-6-scaled.jpg?v=1765465301",
+      "alt": "Wohnwagen Hagen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-hagen-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/WW-040-2022-7-scaled.jpg?v=1765465301",
+      "alt": "Wohnwagen Hagen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-hagen-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/WW-040-2022-8-scaled.jpg?v=1765465301",
+      "alt": "Wohnwagen Hagen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-hagen-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/WW-040-2022-10-scaled.jpg?v=1765465301",
+      "alt": "Wohnwagen Hagen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-hagen-9.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/WW-040-2022-11-scaled.jpg?v=1765465300",
+      "alt": "Wohnwagen Hagen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/wohnwagen-hagen/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

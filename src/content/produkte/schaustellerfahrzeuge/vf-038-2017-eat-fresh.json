@@ -1,0 +1,67 @@
+{
+  "id": 3586,
+  "slug": "vf-038-2017-eat-fresh",
+  "name": "eat fresh",
+  "artikelnummer": "VF-038-2017",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2017,
+  "kurzbeschreibung": "(Produkt-Nr. VF-038-2017) Hier steht &#8222;Frische&#8220; auf dem Programm. Ein Geschäft das zum Probieren einlädt! Die dreigeteilte Front verspricht Produktvielfalt&#8230;",
+  "beschreibung": "Technische Daten: Gesamtbreite Front (aufgebaut): ca. 8,0 m Tiefe: ca. 5,0 m 1-Achs-Fahraggregate für Container-Transport integrierter Erker moderner und funktionaler Innenausbau komplette Fertigung aus einer Hand klappbare Front mit Airbrush und LED Licht plastische und dreigeteilte Front mit ausgewählten Details wie z.B. Markisen Dach mit Gfk-Schindeln robuster Industriebelag Arbeitsplatten in Edelstahl freistehendende Arbeitsinsel Arbeitsplatte mit Unterschränken im Erker Rollokästen mit LED-Einbaustrahlern (Thekenausleuchtung) Schiebetheke mit Glasaufsatz und Spuckschutz Wasseranlage mit Begleitheizung zGG.: 10.000 kg Aufbauzeit: ca. 25 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "800",
+    "gewichtLeer": "10000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-038-2017-eat-fresh-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/08/vf-038-2017__8__231.jpg?v=1765465360",
+      "alt": "eat fresh — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-038-2017-eat-fresh-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/08/vf-038-2017__2__576.jpg?v=1765465360",
+      "alt": "eat fresh — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-038-2017-eat-fresh-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/08/vf-038-2017__10__998.jpg?v=1765465359",
+      "alt": "eat fresh — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-038-2017-eat-fresh-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/08/vf-038-2017__5__658.jpg?v=1765465359",
+      "alt": "eat fresh — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-038-2017-eat-fresh-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/08/vf-038-2017__4__141.jpg?v=1765465360",
+      "alt": "eat fresh — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-038-2017-eat-fresh-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/08/vf-038-2017__9__310.jpg?v=1765465359",
+      "alt": "eat fresh — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-038-2017-eat-fresh/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

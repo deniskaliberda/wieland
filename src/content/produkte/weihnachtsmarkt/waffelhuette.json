@@ -1,0 +1,59 @@
+{
+  "id": 4770,
+  "slug": "waffelhuette",
+  "name": "Waffelhütte",
+  "artikelnummer": "HU-146-2023",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2023,
+  "kurzbeschreibung": "(Produkt-Nr. HU-146-2023) Nicht nur die perfekte Ergänzung zu einer bestehenden Hütte, auch als Einzelgeschäft nutzbar und praktisch.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 3,5 m Gesamttiefe: ca. 2,5 m sichtbarer Dachstuhl, Vollholzkonstruktion aufgesetztes Fachwerk mit Putzflächen Kupferdachrinne eckige Echtholzschindeln Vordach an Stirn- und Längsseiten Lichtleisten mit dimmbaren Spots Ablagebretter im Außenbereich aus Vollholz mit rustikaler Kante robuster Industriefußboden Fußbodenheizung Schiebetrennwand zwischen Arbeits-und Lagerraum, Trennwand zweiteilig Verkaufsöffnung mit mehrteiliger Schiebescheibe hochwertiger Innenausbau Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "350"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/waffelhuette-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-146-2023-3.jpg?v=1765465208",
+      "alt": "Waffelhütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/waffelhuette-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-146-2023-2.jpg?v=1765465208",
+      "alt": "Waffelhütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/waffelhuette-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-146-2023-1.jpg?v=1765465208",
+      "alt": "Waffelhütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/waffelhuette-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-146-2023-4.jpg?v=1765465207",
+      "alt": "Waffelhütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/waffelhuette-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-146-2023-5.jpg?v=1765465207",
+      "alt": "Waffelhütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/waffelhuette/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3747,
+  "slug": "hu-001-2009-schwenkgrill-bavaria",
+  "name": "Schwenkgrill Bavaria",
+  "artikelnummer": "HU-001-2009",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2009,
+  "kurzbeschreibung": "(Produkt-Nr. HU-001-2009) Urgemütliche Schwenkgrill-Hütte im Bayrischem Stil lädt zum verweilen ein&#8230;",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 7,4 m Containerlänge: 5,0 m Gesamttiefe: 5,6 m Glastheke Erkerausschub Transport: mittels 2 separater Achsmodule komplette Hydraulikanlage elektrische Aluminiumrollos Edelstahlgrill der Firma Pfaff kompletter und hochwertiger Innenausbau der Tischlerei Pfaff Aufbauzeit: ca. 50 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "740",
+    "gewichtLeer": "0"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-001-2009-schwenkgrill-bavaria-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schwenkgrill__3__388.jpg?v=1765465650",
+      "alt": "Schwenkgrill Bavaria — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-001-2009-schwenkgrill-bavaria-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schwenkgrill_192.jpg?v=1765465464",
+      "alt": "Schwenkgrill Bavaria — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-001-2009-schwenkgrill-bavaria-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schwenkgrill__4__566.jpg?v=1765465441",
+      "alt": "Schwenkgrill Bavaria — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-001-2009-schwenkgrill-bavaria-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/schwenkgrill__2__143.jpg?v=1765465605",
+      "alt": "Schwenkgrill Bavaria — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-001-2009-schwenkgrill-bavaria/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

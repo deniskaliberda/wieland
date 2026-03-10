@@ -1,0 +1,59 @@
+{
+  "id": 4735,
+  "slug": "enzian-huette",
+  "name": "Enzian Hütte",
+  "artikelnummer": "HU-141-2023",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2023,
+  "kurzbeschreibung": "(Produkt-Nr. HU-141-2023) Egal ob Weihnachtsmarkt oder Volksfest, dieser Ausschank ist dafür konzipiert an drei Seiten gleichzeitig verkaufen zu können!",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 5,0 m Gesamttiefe: ca. 2,25 m Verkaufsfront mit festen Ecksäulen Verkaufsöffnungen an drei Seiten Giebel und Vordach mit Beleuchtung u.a. mit LED Strahlern Schneefangbalken als Dachdeko Fachwerk mit Altholz Rückwand mit Tür und Erker LED-Werbeleuchtschrift Dach mit GFK-Schindeln in Holzoptik Theke mit umlaufender Handtaschenablage und LED-Unterleuchtung robuster Industriefußboden mit Edelstahlablaufrinne hochwertiger Innenausbau Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/enzian-huette-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-141-2023-5.jpg?v=1765465213",
+      "alt": "Enzian Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/enzian-huette-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-141-2023-2.jpg?v=1765465213",
+      "alt": "Enzian Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/enzian-huette-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-141-2023-1.jpg?v=1765465214",
+      "alt": "Enzian Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/enzian-huette-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-141-2023-6.jpg?v=1765465213",
+      "alt": "Enzian Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/enzian-huette-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-141-2023-8.jpg?v=1765465213",
+      "alt": "Enzian Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/enzian-huette/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

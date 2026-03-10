@@ -1,0 +1,52 @@
+{
+  "id": 4238,
+  "slug": "paulaner-bierkrug-2-0",
+  "name": "Paulaner Bierkrug 2.0",
+  "artikelnummer": "SF-012-2015",
+  "kategorie": "sonderbau",
+  "unterkategorie": "sonderfahrzeuge-sonderbauten",
+  "baujahr": 2015,
+  "kurzbeschreibung": "(Produkt-Nr. SF-012-2015) O&#8216; zapft is&#8230;..ein weiterer Paulaner Bierkrug ziert ab 2015 die Wiesn und das gleichnamige Festzelt.",
+  "beschreibung": "Technische Daten: Höhe: ca. 3,33 m Durchmesser: ca. 1,8 m interne Beleuchtung LED Spots in der Schaumkrone realistische und detaillierte Bemalung Stahlgrundgestell und GFK-Mantel Alle Produkte sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "333"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/sonderbau/paulaner-bierkrug-2-0-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-012-2015-2-scaled.jpg?v=1765465263",
+      "alt": "Paulaner Bierkrug 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/paulaner-bierkrug-2-0-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-012-2015-1-scaled.jpg?v=1765465264",
+      "alt": "Paulaner Bierkrug 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/paulaner-bierkrug-2-0-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-012-2015-3-scaled.jpg?v=1765465263",
+      "alt": "Paulaner Bierkrug 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/paulaner-bierkrug-2-0-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-012-2015-4-scaled.jpg?v=1765465263",
+      "alt": "Paulaner Bierkrug 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/paulaner-bierkrug-2-0/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

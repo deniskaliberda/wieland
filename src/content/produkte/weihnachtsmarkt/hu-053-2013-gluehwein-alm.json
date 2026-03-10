@@ -1,0 +1,67 @@
+{
+  "id": 3714,
+  "slug": "hu-053-2013-gluehwein-alm",
+  "name": "Glühwein-Alm",
+  "artikelnummer": "HU-053-2013",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2013,
+  "kurzbeschreibung": "(Produkt-Nr. HU-053-2013) Ein Gefühl als wäre man in den Bergen- der Vorteil dieser Alm ist jedoch ihre Standortunabhängigkeit! Warmes Licht, handgeschnitzte und -gemalte Bilder sowie viel Naturholz schaffen eine gemütliche Atmosphäre. Zudem überzeugt dieses Geschäft durch Geräumigkeit mit einem großzügigen Anbau, vor Ort kann so der Glühwein direkt genossen werden.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 8,6 m Gesamttiefe: 6,2 m zentrale Verkaufstheke von allen Seiten als Verkaufsraum nutzbar ausschiebbare Verkauftstheke Innenraum Holz-natur-lackiert Faltanbau klappbarer Fußboden Gas-, Wasser-, Elektroinstallation hydraulische Abstützung hydraulisch absenkbares Dach Dach mit Echtholzschindeln Rotzeder belegt Staurraum im Dach eingebaute Spots in der Balkenkonstruktion Kugellampen an der Dachumrandung Fußbodenheizung elektrische Aluminiumrollos separates Fahrgestell zGG.: 13.300 kg Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "860",
+    "gewichtLeer": "13300"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-053-2013-gluehwein-alm-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/20131028-osw_2860_760-scaled.jpg?v=1765465554",
+      "alt": "Glühwein-Alm — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-053-2013-gluehwein-alm-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/20131028-osw_2863_785-scaled.jpg?v=1765465429",
+      "alt": "Glühwein-Alm — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-053-2013-gluehwein-alm-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/20131028-osw_2861_175-scaled.jpg?v=1765465532",
+      "alt": "Glühwein-Alm — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-053-2013-gluehwein-alm-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/20131028-osw_2867_278-scaled.jpg?v=1765465445",
+      "alt": "Glühwein-Alm — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-053-2013-gluehwein-alm-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/20131028-osw_2868_358-scaled.jpg?v=1765465666",
+      "alt": "Glühwein-Alm — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-053-2013-gluehwein-alm-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/20131028-osw_2851_179-scaled.jpg?v=1765465584",
+      "alt": "Glühwein-Alm — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-053-2013-gluehwein-alm/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 4204,
+  "slug": "schokolade-gluehwein",
+  "name": "Schokolade &amp; Glühwein",
+  "artikelnummer": "HU-134-2019",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2019,
+  "kurzbeschreibung": "(Produkt-Nr. HU-134-2019) Als mobile Heimat der &#8222;Goslarer Schokoladen Manufaktur&#8220; bietet dieses Hütte die ideale Fläche zur Präsentation von handgefertigten Pralinen, frisch geschöpften Tafel- und Bruchschokoladen und allerlei anderer leckerer Naschereien.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 4,80 m Gesamttiefe: ca. 3,30 m elektrische Aluminiumrollos ausschiebbarer Tresen Dach und Vordach mit Echtholzschindeln Dachgaube mit aufgesetztem Fenster Turm mit Aufsatzteil und Werbeausleger 1 seitliche Verkaufsöffnung mit Festfenster und Schmiedegitter Werbeleuchtschriften und Schneefangbalken als Dekoelemente Lichtleisten mit Kugellampen und LED Spots Verkaufstheke und Möbelfronten in Holzoptik hochwertiger Innenausbau Designelemente und Lichtakzente Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "480"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/schokolade-gluehwein-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-134-2019-3-scaled.jpg?v=1765465270",
+      "alt": "Schokolade &amp; Glühwein — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/schokolade-gluehwein-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-134-2019-1-scaled.jpg?v=1765465270",
+      "alt": "Schokolade &amp; Glühwein — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/schokolade-gluehwein-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-134-2019-5-scaled.jpg?v=1765465269",
+      "alt": "Schokolade &amp; Glühwein — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/schokolade-gluehwein-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-134-2019-6-scaled.jpg?v=1765465269",
+      "alt": "Schokolade &amp; Glühwein — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/schokolade-gluehwein-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-134-2019-4-scaled.jpg?v=1765465269",
+      "alt": "Schokolade &amp; Glühwein — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/schokolade-gluehwein/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

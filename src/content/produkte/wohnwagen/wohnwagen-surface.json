@@ -1,0 +1,95 @@
+{
+  "id": 4550,
+  "slug": "wohnwagen-surface",
+  "name": "Wohnwagen Surface",
+  "artikelnummer": "WW-043-2022",
+  "kategorie": "wohnwagen",
+  "unterkategorie": "wohnwagengt10tonnen",
+  "baujahr": 2022,
+  "kurzbeschreibung": "(Produkt-Nr. WW-043-2022) Diverse Designoberflächen geben hier jedem Raum eine eigene Charakteristik. Akustikpaneele, stoßfeste Resopal-und Mineralwerkstoffoberflächen oder ausgewählte Designplatten mit optischen und haptischen Strukturen setzen individuelle Highlights.",
+  "beschreibung": "Technische Daten: Aufbaulänge: ca. 10,7 m 2-Achs-Fahrgestell komplette Hydraulikanlage automatische Niveauregulierung 3 hydraulische Erker Veranda ganzflächig überdacht Geländer und Treppe abnehmbar Edelstahlgeländer mit Glasfüllung elektrische Fußbodenheizung Kork- und Vinylböden Badezimmer als separater Raum Schlafzimmer mit begehbarem Kleiderschrank große Einbaudusche moderne Raumgestaltung mit offener Sitzecke optischer Raumtrenner zwischen Couch und Küche gemütliche Sitzecke + Couch RGB Akzentbeleuchtung RGB Spanndecke + Deckenklima zGG.: 16.000 kg kompletter und hochwertiger Innenausbau Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "1070",
+    "gewichtLeer": "16000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-17.jpg?v=1765465247",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-1-1.jpg?v=1765465247",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-18.jpg?v=1765465247",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-3-1.jpg?v=1765465246",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-5-1.jpg?v=1765465246",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-7-1.jpg?v=1765465246",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-9.jpg?v=1765465248",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-11.jpg?v=1765465247",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-9.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-12.jpg?v=1765465247",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/wohnwagen/wohnwagen-surface-10.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/WW-043-2022-14.jpg?v=1765465247",
+      "alt": "Wohnwagen Surface — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/wohnwagen-surface/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

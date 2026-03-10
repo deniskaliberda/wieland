@@ -1,0 +1,53 @@
+{
+  "id": 4182,
+  "slug": "pfaelzer-huette",
+  "name": "Pfälzer Hütte",
+  "artikelnummer": "HU-128-2019",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2019,
+  "kurzbeschreibung": "(Produkt-Nr. HU-128-2019) Vielfältig einsetzbar, ist dieses Geschäft an keine Jahreszeit gebunden. Das rustikale Design bietet eine moderne Grundlage zur Ausgestaltung auf jeder Veranstaltung&#8230;",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 7,2 m Gesamttiefe: ca. 5,0 m Außengestaltung in Altholz/Gfk-Holznachbildung Dach mit Gfk-Schindeln großes Giebeldach große Verkaufsöffnungen großzügiger Innenraum Seitenöffnung zugluftgeschützt durch Fenster schmiedeeiserne Zierelemente Gas-, Wasser-, Elektroinstallation ausschiebbare Theke Arbeitsflächen in Edelstahl und versiegeltem Holz Lichtleisten mit Kugellampen elektrische Aluminiumrollos hochwertiger Innenausbau zGG.: je 12.000 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "730",
+    "gewichtLeer": "12000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/pfaelzer-huette-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-128-2019-3-scaled.jpg?v=1765465273",
+      "alt": "Pfälzer Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/pfaelzer-huette-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-128-2019-2-scaled.jpg?v=1765465274",
+      "alt": "Pfälzer Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/pfaelzer-huette-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-128-2019-4-scaled.jpg?v=1765465273",
+      "alt": "Pfälzer Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/pfaelzer-huette-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-128-2019-1-scaled.jpg?v=1765465274",
+      "alt": "Pfälzer Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/pfaelzer-huette/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

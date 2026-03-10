@@ -1,0 +1,81 @@
+{
+  "id": 4136,
+  "slug": "schlemmerschloss",
+  "name": "Schlemmerschloss",
+  "artikelnummer": "VF-040-2019",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2019,
+  "kurzbeschreibung": "(Produkt-Nr. VF-040-2019) Vielseitig einsetzbar, ist das Schlemmerschloss besonders durch die 3D-Optik ein Blickfang. Türme, Säulen und Fenster der Front sind als plastische Elemente gefertigt und geben diesem Verkaufsgeschäft sein individuelles Alleinstellungsmerkmal.",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 6,0 m Gesamthöhe: 5,0 m moderner und funktionaler Innenausbau integrierter Werbemonitor ausschiebare Theke mit integrierten Geräten Arbeitsflächen Schichtstoff / Edelstahl Front in 3D-Optik Logo als LED Leuchtschrift Vordachkante mit LED Beleuchtung RGB Frontbeleuchtung hydraulisch abklappbares Vordach hydraulisch klappbare Hauptfront elektrische Aluminiumrollos Zugdeichsel seitlich abklappbar absenkbarer-Tandem-Verkaufsanhänger zGG.: 3.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "600",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/schlemmerschloss-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF_040-2019-7-scaled.jpg?v=1765465281",
+      "alt": "Schlemmerschloss — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/schlemmerschloss-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF_040-2019-3-scaled.jpg?v=1765465282",
+      "alt": "Schlemmerschloss — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/schlemmerschloss-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF_040-2019-5-scaled.jpg?v=1765465282",
+      "alt": "Schlemmerschloss — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/schlemmerschloss-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF_040-2019-1-scaled.jpg?v=1765465282",
+      "alt": "Schlemmerschloss — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/schlemmerschloss-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF_040-2019-4-scaled.jpg?v=1765465282",
+      "alt": "Schlemmerschloss — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/schlemmerschloss-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF_040-2019-2-scaled.jpg?v=1765465282",
+      "alt": "Schlemmerschloss — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/schlemmerschloss-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF_040-2019-9-scaled.jpg?v=1765465281",
+      "alt": "Schlemmerschloss — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/schlemmerschloss-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF_040-2019-8-scaled.jpg?v=1765465281",
+      "alt": "Schlemmerschloss — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/schlemmerschloss/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

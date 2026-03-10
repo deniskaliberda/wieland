@@ -1,0 +1,74 @@
+{
+  "id": 4145,
+  "slug": "cheesebox",
+  "name": "Cheesebox",
+  "artikelnummer": "VF-042-2020",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2020,
+  "kurzbeschreibung": "(Produkt-Nr. VF-042-2020) Alles Käse? Die Cheesebox verspricht Besuchern nicht nur durch Ihren Namen sondern vielmehr auch durch die optische Gestaltung ein umfassendes Produktspektrum. Durch die integrierte Kühlzelle werden Arbeitswege effizienter gestaltet und Qualitätsstandards gesetzt.",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 7,1 m Gesamthöhe: 5,0 m moderner und funktionaler Innenausbau integrierte Werbemonitore ausschiebare Theke mit integrierten Geräten Arbeitsflächen Schichtstoff / Edelstahl Kühlzelle im Erker beleuchtetes Logo im Innenraum Front in 3D-Optik Logo als LED Leuchtschrift Vordachkante mit LED Beleuchtung RGB Frontbeleuchtung hydraulisch abklappbares Vordach hydraulisch klappbare Hauptfront elektrische Aluminiumrollos Zugdeichsel seitlich abklappbar absenkbarer-Tandem-Verkaufsanhänger zGG.: 12.000 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "700",
+    "gewichtLeer": "12000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/cheesebox-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF-042-2020-4-scaled.jpg?v=1765465280",
+      "alt": "Cheesebox — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/cheesebox-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF-042-2020-1-scaled.jpg?v=1765465281",
+      "alt": "Cheesebox — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/cheesebox-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF-042-2020-3-scaled.jpg?v=1765465281",
+      "alt": "Cheesebox — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/cheesebox-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF-042-2020-5-scaled.jpg?v=1765465280",
+      "alt": "Cheesebox — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/cheesebox-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF-042-2020-6-scaled.jpg?v=1765465280",
+      "alt": "Cheesebox — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/cheesebox-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF-042-2020-7-scaled.jpg?v=1765465280",
+      "alt": "Cheesebox — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/cheesebox-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/VF-042-2020-9-scaled.jpg?v=1765465280",
+      "alt": "Cheesebox — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/cheesebox/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

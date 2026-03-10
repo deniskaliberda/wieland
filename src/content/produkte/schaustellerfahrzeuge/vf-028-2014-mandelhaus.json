@@ -1,0 +1,81 @@
+{
+  "id": 3596,
+  "slug": "vf-028-2014-mandelhaus",
+  "name": "Mandelhaus",
+  "artikelnummer": "VF-028-2014",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2014,
+  "kurzbeschreibung": "(Produkt-Nr. VF-028-2014) Dieses Verkaufsgeschäft ist mit Sicherheit eine der süßesten Versuchungen auf jeder Veranstaltung! Mit eigener Skyline, farbenfroher Airbrush-Front und dem breiten Nasch-Sortiment entsteht ein einladendes Gesamtkonzept für Groß und Klein&#8230;",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 9,5 m Gesamthöhe: 4,99 m moderner und funktionaler Innenausbau der Tischlerei Pfaff Arbeitsflächen in Edelstahl Kühltheke und Warmhaltetheke Innenwände Aluminium lackiert Front klappbar liebevolle Bemalung in Airbrush und Pinseltechnik elektrische Aluminiumrollos Wasser- und Elektroinstallation hydraulischer Erkerausschub hydraulische Abstützung hydraulisches Vordach separate Achsaggregate zGG.: 11.000 kg Aufbauzeit: ca. 20 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "950",
+    "gewichtLeer": "11000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-028-2014-mandelhaus-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_4079x-lr_469-scaled.jpg?v=1765465529",
+      "alt": "Mandelhaus — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-028-2014-mandelhaus-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_4453-1_839-scaled.jpg?v=1765465466",
+      "alt": "Mandelhaus — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-028-2014-mandelhaus-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_4068x-lr_379-scaled.jpg?v=1765465641",
+      "alt": "Mandelhaus — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-028-2014-mandelhaus-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_4500-1_910-scaled.jpg?v=1765465682",
+      "alt": "Mandelhaus — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-028-2014-mandelhaus-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_4441-1_616-scaled.jpg?v=1765465515",
+      "alt": "Mandelhaus — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-028-2014-mandelhaus-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_4489-1_247-scaled.jpg?v=1765465562",
+      "alt": "Mandelhaus — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-028-2014-mandelhaus-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_4069x-lr_484-scaled.jpg?v=1765465660",
+      "alt": "Mandelhaus — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-028-2014-mandelhaus-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_4585-1_351-scaled.jpg?v=1765465588",
+      "alt": "Mandelhaus — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-028-2014-mandelhaus/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

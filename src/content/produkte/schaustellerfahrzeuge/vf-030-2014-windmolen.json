@@ -1,0 +1,88 @@
+{
+  "id": 3594,
+  "slug": "vf-030-2014-windmolen",
+  "name": "Windmolen",
+  "artikelnummer": "VF-030-2014",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2014,
+  "kurzbeschreibung": "(Produkt-Nr. VF-30-2014) Weite Felder, ein kleiner Bach, blühende Mohnblumen und inmitten dieser Idylle eine niederländische Spezialität&#8230;Die Poffertjes- Windmühle hat einiges zu bieten!",
+  "beschreibung": "Technische Daten: Gesamtbreite Front: ca. 3,5 m Breite Verkauf: ca 2,2 m offene Verkaufsfläche mit herausnehmbaren Ecksäulen moderner und funktionaler Innenausbau der Tischlerei Pfaff Front mit Pinselmalerei Arbeitsflächen in Edelstahl dreiseitige Verkaufsöffnung Schrankfronten in Hochglanz Front klappbar Aluminiumrollos Wasser- und Elektroinstallation 1-Achs PKW-Anhänger Zugdeichsel seitlich abklappbar begehbares Dach zGG.: 1.800 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "350",
+    "gewichtLeer": "1800"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-030-2014-windmolen-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2014/06/OSW_6226-LR-scaled.jpg?v=1765465264",
+      "alt": "Windmolen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-030-2014-windmolen-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_6237-lr_520-scaled.jpg?v=1765465557",
+      "alt": "Windmolen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-030-2014-windmolen-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_6226-lr_703-scaled.jpg?v=1765465688",
+      "alt": "Windmolen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-030-2014-windmolen-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_6212-lr_645-scaled.jpg?v=1765465446",
+      "alt": "Windmolen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-030-2014-windmolen-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_6233-lr_674-scaled.jpg?v=1765465638",
+      "alt": "Windmolen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-030-2014-windmolen-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_6210-lr_251-scaled.jpg?v=1765465453",
+      "alt": "Windmolen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-030-2014-windmolen-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_6236-lr_587-scaled.jpg?v=1765465631",
+      "alt": "Windmolen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-030-2014-windmolen-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_6241-lr_429-scaled.jpg?v=1765465434",
+      "alt": "Windmolen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-030-2014-windmolen-9.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_6255-lr_210-scaled.jpg?v=1765465490",
+      "alt": "Windmolen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-030-2014-windmolen/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

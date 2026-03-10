@@ -1,0 +1,168 @@
+[
+  {
+    "slug": "wohnwagen",
+    "name": "Mobiles Wohnen",
+    "anzahl": 34,
+    "subcategories": [
+      {
+        "slug": "wohnwagengt10tonnen",
+        "name": "Wohnwagen &gt; 10 Tonnen",
+        "anzahl": 31
+      },
+      {
+        "slug": "wohnwagenlt10tonnen",
+        "name": "Wohnwagen &lt; 10 Tonnen",
+        "anzahl": 2
+      },
+      {
+        "slug": "pfaffjuniorlt3-500kilogramm",
+        "name": "Pfaff Junior &lt; 3.500 Kilogramm",
+        "anzahl": 2
+      }
+    ]
+  },
+  {
+    "slug": "schaustellerfahrzeuge",
+    "name": "Schausteller­fahrzeuge",
+    "anzahl": 32,
+    "subcategories": [
+      {
+        "slug": "verkaufsfahrzeuge",
+        "name": "Verkaufsfahrzeuge",
+        "anzahl": 24
+      },
+      {
+        "slug": "mannschaftswagen",
+        "name": "Mannschaftswagen",
+        "anzahl": 5
+      },
+      {
+        "slug": "spielwagen",
+        "name": "Spielwagen",
+        "anzahl": 3
+      }
+    ]
+  },
+  {
+    "slug": "weihnachtsmarkt",
+    "name": "Weihnachtsmarkt",
+    "anzahl": 70,
+    "subcategories": [
+      {
+        "slug": "rustikalehuetten",
+        "name": "Rustikale Hütten",
+        "anzahl": 63
+      },
+      {
+        "slug": "weihnachtspyramiden",
+        "name": "Weihnachtspyramiden",
+        "anzahl": 1
+      },
+      {
+        "slug": "zubehoer",
+        "name": "Zubehör",
+        "anzahl": 6
+      }
+    ]
+  },
+  {
+    "slug": "sonderbau",
+    "name": "Sonder- / Messebau",
+    "anzahl": 5,
+    "subcategories": [
+      {
+        "slug": "sonderfahrzeuge-sonderbauten",
+        "name": "Sonderfahrzeuge / Sonderbauten",
+        "anzahl": 5
+      },
+      {
+        "slug": "messebau",
+        "name": "Messebau",
+        "anzahl": 0
+      }
+    ]
+  },
+  {
+    "slug": "medienwagen",
+    "name": "Medienmobile",
+    "anzahl": 5,
+    "subcategories": [
+      {
+        "slug": "sendefahrzeuge",
+        "name": "Sendefahrzeuge",
+        "anzahl": 0
+      },
+      {
+        "slug": "uebertragungswagen",
+        "name": "Übertragungswagen",
+        "anzahl": 5
+      },
+      {
+        "slug": "ruestwagen",
+        "name": "Rüstwagen",
+        "anzahl": 0
+      },
+      {
+        "slug": "schnittmobile",
+        "name": "Schnittmobile",
+        "anzahl": 0
+      },
+      {
+        "slug": "dsng-sng-evs",
+        "name": "DSNG / SNG / EVS",
+        "anzahl": 1
+      }
+    ]
+  },
+  {
+    "slug": "wohncontainer",
+    "name": "Wohncontainer",
+    "anzahl": 4,
+    "subcategories": []
+  },
+  {
+    "slug": "kassenwagen-kassencontainer",
+    "name": "Kassenwagen / Kassencontainer",
+    "anzahl": 4,
+    "subcategories": []
+  },
+  {
+    "slug": "nutzfahrzeuge",
+    "name": "Nutzfahrzeuge",
+    "anzahl": 2,
+    "subcategories": [
+      {
+        "slug": "packwagenundrollen",
+        "name": "Packwagen und Rollen",
+        "anzahl": 1
+      },
+      {
+        "slug": "pkwanhaenger",
+        "name": "PKW Anhänger",
+        "anzahl": 0
+      },
+      {
+        "slug": "containerfahrgestelle",
+        "name": "Containerfahrgestelle",
+        "anzahl": 1
+      },
+      {
+        "slug": "umbauten",
+        "name": "Umbauten",
+        "anzahl": 0
+      }
+    ]
+  },
+  {
+    "slug": "bootsanhaenger",
+    "name": "Bootsanhänger",
+    "anzahl": 1,
+    "subcategories": [
+      {
+        "slug": "bildergalerieundanfrage",
+        "name": "Bildergalerie und Anfrage",
+        "anzahl": 1
+      }
+    ]
+  }
+]

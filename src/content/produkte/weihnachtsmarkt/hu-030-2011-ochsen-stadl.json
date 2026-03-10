@@ -1,0 +1,81 @@
+{
+  "id": 3721,
+  "slug": "hu-030-2011-ochsen-stadl",
+  "name": "Ochsen Stadl",
+  "artikelnummer": "HU-030-2011",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2011,
+  "kurzbeschreibung": "(Produkt-Nr. HU-030-2011) Da hier nicht nur mit Worten geworben wird, prangt am First dieses beeindruckenden Geschäftes ein gewaltiger Ochsenschädel mit dem gewissen leuchten in den Augenhöhlen. Die Geschäfte der Firma Marko Pfaff sind speziell für Schausteller konzipiert und ermöglichen ein schnelles und rentables Auf- und Abbauen.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 7,6 m Gesamttiefe: 3,9 m große ausschiebbare Verkaufstheke drei Verkaufsöffnungen Gas-, Wasser-, Elektroinstallation hydraulische Abstützung hydraulisches Dach / Vordach Dach mit Echtholzschindeln belegt Schmucktürmchen, Gaube, Schornstein Lichtleisten mit Kugellampen elektrische Aluminiumrollos separates Fahrgestell zGG.: 10.000 kg Aufbauzeit: ca. 25 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "760",
+    "gewichtLeer": "10000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-030-2011-ochsen-stadl-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0596_661-scaled.jpg?v=1765465666",
+      "alt": "Ochsen Stadl — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-030-2011-ochsen-stadl-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0565_641-scaled.jpg?v=1765465568",
+      "alt": "Ochsen Stadl — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-030-2011-ochsen-stadl-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0601_396-scaled.jpg?v=1765465609",
+      "alt": "Ochsen Stadl — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-030-2011-ochsen-stadl-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0609_255-scaled.jpg?v=1765465600",
+      "alt": "Ochsen Stadl — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-030-2011-ochsen-stadl-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0607_927-scaled.jpg?v=1765465627",
+      "alt": "Ochsen Stadl — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-030-2011-ochsen-stadl-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0634_441-scaled.jpg?v=1765465642",
+      "alt": "Ochsen Stadl — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-030-2011-ochsen-stadl-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0650_288-scaled.jpg?v=1765465601",
+      "alt": "Ochsen Stadl — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-030-2011-ochsen-stadl-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0667_765-scaled.jpg?v=1765465600",
+      "alt": "Ochsen Stadl — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-030-2011-ochsen-stadl/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

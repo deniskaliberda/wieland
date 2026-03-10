@@ -1,0 +1,53 @@
+{
+  "id": 3691,
+  "slug": "hu-099-2016-la-creperia",
+  "name": "La Creperia",
+  "artikelnummer": "HU-099-2016",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2016,
+  "kurzbeschreibung": "(Produkt-Nr. HU-099-2016) Ein echtes Leichtgewicht mit rustikalem Charme durch eine gemalte Fachwerkoptik. Aber auch die Leuchtschrift und Ausstattung sprechen für sich, ein Highlight für jeden Crêpe-Liebhaber.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 6,70 m Gesamttiefe: ca. 3,60 m (mit Vordach) Wasser-, Elektroinstallation Arbeitsflächen in Edelstahl Verkaufsöffnung in der Rückwand Lichtleisten mit Kugellampen elektrische Aluminiumrollos Dach mit GFK-Schindeln LED-Leuchtschrift schmiedeeiserner Ausleger und Dachgaube hochwertiger Innenausbau 3-Achs-Tridemsanhänger hydraulisch absenkbar zGG.: 3.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "670",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-099-2016-la-creperia-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/hu-099-2016__3__268.jpg?v=1765465370",
+      "alt": "La Creperia — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-099-2016-la-creperia-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/hu-099-2016__5__725-scaled.jpg?v=1765465370",
+      "alt": "La Creperia — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-099-2016-la-creperia-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/hu-099-2016__1__865-scaled.jpg?v=1765465370",
+      "alt": "La Creperia — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-099-2016-la-creperia-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/hu-099-2016__4__169.jpg?v=1765465370",
+      "alt": "La Creperia — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-099-2016-la-creperia/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

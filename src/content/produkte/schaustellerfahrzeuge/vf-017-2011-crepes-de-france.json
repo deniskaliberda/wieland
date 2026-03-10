@@ -1,0 +1,74 @@
+{
+  "id": 3600,
+  "slug": "vf-017-2011-crepes-de-france",
+  "name": "Crepes de France",
+  "artikelnummer": "VF-017-2011",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2011,
+  "kurzbeschreibung": "(Produkt-Nr. VF-017-2011) Den Eifelturm und andere Sehenswürdigkeiten kann man auch außerhalb von Paris bewundern&#8230;Hier isst das Auge mit, dieses Verkaufsgeschäft, gestaltet in den französischen Landesfarben, lädt zum probieren ein!",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 5,9 m Gesamthöhe: 3,5 m moderner und funktionaler Innenausbau der Tischlerei Pfaff moderne Frontform Airbrush und 3D-Effekt durch Eifelturm-Miniatur abklappbares Vordach Vordachkante mit LED Beleuchtung elektrische Aluminiumrollos Zugdeichsel seitlich abklappbar Räder hydraulisch Absenkbar zGG.: 3.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "590",
+    "gewichtLeer": "0"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-017-2011-crepes-de-france-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/crepes_de_france_pfaff_schausteller__9__756-scaled.jpg?v=1765465627",
+      "alt": "Crepes de France — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-017-2011-crepes-de-france-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/crepes_de_france_pfaff_schausteller__1__698-scaled.jpg?v=1765465668",
+      "alt": "Crepes de France — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-017-2011-crepes-de-france-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/crepes_de_france_pfaff_schausteller__4__217-scaled.jpg?v=1765465571",
+      "alt": "Crepes de France — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-017-2011-crepes-de-france-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/crepes_de_france_pfaff_schausteller__2__740-scaled.jpg?v=1765465476",
+      "alt": "Crepes de France — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-017-2011-crepes-de-france-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/crepes_de_france_pfaff_schausteller__7__806-scaled.jpg?v=1765465429",
+      "alt": "Crepes de France — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-017-2011-crepes-de-france-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/crepes_de_france_pfaff_schausteller__5__719-scaled.jpg?v=1765465541",
+      "alt": "Crepes de France — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-017-2011-crepes-de-france-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/crepes_de_france_pfaff_schausteller__6__897-scaled.jpg?v=1765465399",
+      "alt": "Crepes de France — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-017-2011-crepes-de-france/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

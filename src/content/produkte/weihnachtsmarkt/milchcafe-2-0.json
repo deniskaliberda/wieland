@@ -1,0 +1,60 @@
+{
+  "id": 4722,
+  "slug": "milchcafe-2-0",
+  "name": "Milchcafè 2.0",
+  "artikelnummer": "HU-138-2022",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2022,
+  "kurzbeschreibung": "(Produkt-Nr. HU-138-2022) Willkommen im Milch-Cafè 2.0. Mehr Farbe, mehr Licht, klare Linien und doch ein eindeutig erkennbares corporate Design das den Bezug zum Vorgänger-Modell herstellt.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 4,6 m Gesamttiefe: ca. 2,2 m 2 Stück hydraulisch absenkbare Achsen elektrische Aluminiumrollos klappbare Zuggabel mittels Staukasten verkleidet Staukasten als Stehtisch nutzbar Vordach doppelt geknickt, hydraulisch klappbar Vordachabschluss mit gekanteter Lichtleiste und LED-Beleuchtung ausschiebbarer Tresen mit fester Handtaschenablage und LED Unterleuchtung Fachwerk an seitlichen Verkaufsöffnungen Seitenfenster mit Schiebescheiben Dachraum innen offen klappbare LED-Werbeleuchtschrift Dach mit GFK-Schindeln in Schieferoptik Glasspuckschutz und schwenkbare Glasablage robuster Industriefußboden hochwertiger Innenausbau zGG: 3.500kg Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "560",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/milchcafe-2-0-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-138-2022-5.jpg?v=1765465215",
+      "alt": "Milchcafè 2.0 — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/milchcafe-2-0-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-138-2022-1.jpg?v=1765465216",
+      "alt": "Milchcafè 2.0 — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/milchcafe-2-0-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-138-2022-9.jpg?v=1765465215",
+      "alt": "Milchcafè 2.0 — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/milchcafe-2-0-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-138-2022-4.jpg?v=1765465216",
+      "alt": "Milchcafè 2.0 — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/milchcafe-2-0-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/HU-138-2022-8.jpg?v=1765465215",
+      "alt": "Milchcafè 2.0 — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/milchcafe-2-0/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

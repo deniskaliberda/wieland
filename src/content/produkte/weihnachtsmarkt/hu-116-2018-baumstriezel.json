@@ -1,0 +1,53 @@
+{
+  "id": 3680,
+  "slug": "hu-116-2018-baumstriezel",
+  "name": "Baumstriezel",
+  "artikelnummer": "HU-116-2018",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2018,
+  "kurzbeschreibung": "(Produkt-Nr. HU-116-2018) Die auf den Kunden und dessen Arbeit individuell abgestimmte Arbeitsstrecken bieten eine effiziente Fertigung und Vermarktung. Verkaufsfahrzeuge als 3,5 Tonnen PKW-Anhänger mit absenkbaren Achsen garantieren schnellstmögliche Aufbauzeiten, ein großzügiges Platzangebot, individuelle Raum und Thekenaufteilung und universelle Einsatzmöglichkeiten.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 6,00 m Gesamttiefe: ca. 3,60 m (mit Vordach) Wasser-, Elektroinstallation Fachwerkoptik mit Putzflächen Lichtleisten mit Kugellampen Kupfer-Dachrinnen elektrische Aluminiumrollos schiebbarer Tresen ausschiebbarer Baumstriezelgrill Spuckschutz und Handtaschenablage Dach mit GFK-Schindeln Tutmaufsatz und schmiedeeiserne Ausleger hochwertiger Innenausbau klappbare Zugdeichsel hydraulisch absenkbar hydraulische Vordachklappe zGG.: je 3.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "600",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-116-2018-baumstriezel-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2018/08/cpf_1602_802-scaled.jpg?v=1765465349",
+      "alt": "Baumstriezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-116-2018-baumstriezel-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2018/08/cpf_1607_569-scaled.jpg?v=1765465348",
+      "alt": "Baumstriezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-116-2018-baumstriezel-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2018/08/cpf_1620_971-scaled.jpg?v=1765465350",
+      "alt": "Baumstriezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-116-2018-baumstriezel-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2018/08/cpf_1626_474-scaled.jpg?v=1765465349",
+      "alt": "Baumstriezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-116-2018-baumstriezel/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

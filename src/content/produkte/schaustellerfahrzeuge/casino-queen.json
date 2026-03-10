@@ -1,0 +1,57 @@
+{
+  "id": 4689,
+  "slug": "casino-queen",
+  "name": "Casino Queen",
+  "artikelnummer": "GC-001-2024",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "spielwagen",
+  "baujahr": 2024,
+  "kurzbeschreibung": "(Produkt-Nr. GC-001-2024) Aus Alt mach Neu&#8230;dieses Projekt umfasst die Sanierung eines bestehenden Greifercontainers um ihn ins 21. Jahrhundert zu holen. Das Ergebnis kann sich sehen lassen!",
+  "beschreibung": "Technische Daten: Sanierung eines Greifercontainers Neugestaltung der Außenhaut inkl. Vordach und Front Vordach mit zahlreichen RGB Einbaucaps LED Werbeleuchtschrift als Digitaldruck mit Ausleuchtung an Front angepasste Konturbeleuchtung elektrische Aluminiumrollos Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": null,
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/casino-queen-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/GC-001-2024-1.jpg?v=1765465221",
+      "alt": "Casino Queen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/casino-queen-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/GC-001-2024-2.jpg?v=1765465221",
+      "alt": "Casino Queen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/casino-queen-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/GC-001-2024-3.jpg?v=1765465220",
+      "alt": "Casino Queen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/casino-queen-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/GC-001-2024-4.jpg?v=1765465220",
+      "alt": "Casino Queen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/casino-queen-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/GC-001-2024-5.jpg?v=1765465220",
+      "alt": "Casino Queen — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/casino-queen/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": 3591,
+  "slug": "vf-033-2015-pommes-factory",
+  "name": "Pommes Factory",
+  "artikelnummer": "VF-033-2015",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2015,
+  "kurzbeschreibung": "(Produkt-Nr. VF-033-2015) Schon auf den ersten Blick erkennt man das Verkaufskonzept. Ein Geschäft mit Wiedererkennungswert&#8230;Die detailreiche Front im Airbrush-Design ist hydraulisch aufklappbar und ebenso wie die Inneneinrichtung stimmig an das Farbkonzept eines Pommesverkaufs angepasst!",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 5,5 m Gesamthöhe: 5,0 m moderner und funktionaler Innenausbau ausschiebbare Theke mit integrierten Geräten Arbeitsflächen in Edelstahl moderne Frontform mit Airbrush-Design hydraulisch abklappbares Vordach Vordachkante mit LED Beleuchtung elektrische Aluminiumrollos klappbares Laufpodest Zugdeichsel seitlich abklappbar absenkbarer-Tandem-Verkaufsanhänger zGG.: 3.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "550",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-033-2015-pommes-factory-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/vf-033-2015__1__870-scaled.jpg?v=1765465451",
+      "alt": "Pommes Factory — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-033-2015-pommes-factory-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/vf-033-2015__4__832-scaled.jpg?v=1765465427",
+      "alt": "Pommes Factory — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-033-2015-pommes-factory-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/vf-033-2015__2__530-scaled.jpg?v=1765465436",
+      "alt": "Pommes Factory — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-033-2015-pommes-factory-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/vf-033-2015__5__848-scaled.jpg?v=1765465444",
+      "alt": "Pommes Factory — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-033-2015-pommes-factory-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/vf-033-2015__3__666-scaled.jpg?v=1765465499",
+      "alt": "Pommes Factory — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-033-2015-pommes-factory-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/vf-033-2015__6__327-scaled.jpg?v=1765465525",
+      "alt": "Pommes Factory — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-033-2015-pommes-factory-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/vf-033-2015__7__355-scaled.jpg?v=1765465464",
+      "alt": "Pommes Factory — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-033-2015-pommes-factory/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

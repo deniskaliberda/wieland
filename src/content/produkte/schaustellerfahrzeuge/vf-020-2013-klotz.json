@@ -1,0 +1,81 @@
+{
+  "id": 3598,
+  "slug": "vf-020-2013-klotz",
+  "name": "Klotz",
+  "artikelnummer": "VF-020-2013",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2013,
+  "kurzbeschreibung": "(Produkt-Nr. VF-020-2013) Hier ist der Name Programm. Moderne Architektur trifft auf ausgefeilte Technik. Schon von weitem zieht dieses innovative und deutschlandweit einzigartige Geschäft Blicke auf sich. Mit klaren Formen und schlichter Eleganz wurde hier ein wahres Platzwunder geschaffen, denn der gesamte Innenraum kann von allen Seiten als Verkauf genutzt werden.",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 9,0 m Gesamthöhe: 4,99 m Gesamttiefe: 6,3 m moderner und funktionaler Innenausbau der Tischlerei Pfaff Arbeitsflächen in Edelstahl Kühltheke Innenwände in Antikholz- und Feinspachteltechnik Fassadenfront in TECU-Gold freistehende, schiebbare Theke mit umlaufender Tresenfläche dreiseitig offen Verglasung in Echtglas elektrische Aluminiumrollos elektrische Fußbodenheizung komplett dimmbare LED-Beleuchtung und Sternenhimmel Wasser- und Elektroinstallation, Begleitheizung großflächiger Faltanbau hydraulische Abstützung hydraulisches Vordach hydraulischer Dachhub Laufpodest und Böden in Lerche hochfester Industriebelag im Arbeitsbereich separate Achsaggregate mit hydraulischem Achseinzug und Verriegelung ein Transport zGG.: 16.000 kg Aufbauzeit: ca. 35 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "900",
+    "gewichtLeer": "16000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-020-2013-klotz-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_3260_-_kopie-lr-schatten_122-scaled.jpg?v=1765465608",
+      "alt": "Klotz — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-020-2013-klotz-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_3214_-_kopie-lr_793-scaled.jpg?v=1765465392",
+      "alt": "Klotz — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-020-2013-klotz-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_3247_-_kopie-lr-schatten_748-scaled.jpg?v=1765465584",
+      "alt": "Klotz — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-020-2013-klotz-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_3242_-_kopie-lr-schatten_909-scaled.jpg?v=1765465606",
+      "alt": "Klotz — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-020-2013-klotz-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_3255_-_kopie-lr_209-scaled.jpg?v=1765465579",
+      "alt": "Klotz — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-020-2013-klotz-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_3225_-_kopie-lr-schatten_598-scaled.jpg?v=1765465402",
+      "alt": "Klotz — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-020-2013-klotz-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_3268_-_kopie-lr_188-scaled.jpg?v=1765465640",
+      "alt": "Klotz — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-020-2013-klotz-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/osw_3269_-_kopie-lr_993-scaled.jpg?v=1765465523",
+      "alt": "Klotz — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-020-2013-klotz/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

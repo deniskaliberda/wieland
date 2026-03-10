@@ -1,0 +1,60 @@
+{
+  "id": 3707,
+  "slug": "hu-084-2014-zur-alten-muehle",
+  "name": "Zur alten Mühle",
+  "artikelnummer": "HU-084-2014",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2014,
+  "kurzbeschreibung": "(Produkt-Nr. HU-084-2014) Ein Fahrzeug, dass die Moderne mit der Tradition verbindet. Die moderne Inneneinrichtung komplettiert den Charme der rustikalen Weihnachtsmarkthütte&#8230;Unterteilt in zwei Bereiche, entsteht genügend Platz um sowohl im Vorbereitungsraum als auch dem Verkauf den Kundenwünschen gerecht zu werden.",
+  "beschreibung": "Technische Daten: Containerlänge: ca. 6,0 m Gesamttiefe: ca. 4,8 m ausschiebbare Verkaufstheke Vorbereitungsraum durch räumliche Trennung mittels verschiebbarer Zwischenwand/ Schränke Gas-, Wasser-, Elektroinstallation Arbeitsfläche in Edelstahl hydraulische Abstützung Dach mit roten GFK-Schindeln Lichtdecke mit Plexiglasscheiben im Verkaufsraum Lichtleisten mit Kugellampen elektrische Aluminiumrollos hochwertiger Innenausbau separate Achsaggregate zGG.: 8.000 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "600",
+    "gewichtLeer": "8000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-084-2014-zur-alten-muehle-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-084-2014__7__520-scaled.jpg?v=1765465524",
+      "alt": "Zur alten Mühle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-084-2014-zur-alten-muehle-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-084-2014__5__865-scaled.jpg?v=1765465595",
+      "alt": "Zur alten Mühle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-084-2014-zur-alten-muehle-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-084-2014__1__499-scaled.jpg?v=1765465423",
+      "alt": "Zur alten Mühle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-084-2014-zur-alten-muehle-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-084-2014__6__516-scaled.jpg?v=1765465560",
+      "alt": "Zur alten Mühle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-084-2014-zur-alten-muehle-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu-084-2014__2__355-scaled.jpg?v=1765465644",
+      "alt": "Zur alten Mühle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-084-2014-zur-alten-muehle/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

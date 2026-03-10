@@ -1,0 +1,53 @@
+{
+  "id": 3589,
+  "slug": "vf-035-2016-frozen-yogurt",
+  "name": "Frozen Yogurt",
+  "artikelnummer": "VF-035-2016",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2016,
+  "kurzbeschreibung": "(Produkt-Nr. VF-035-2016) Früchte wo das Auge hinsieht! Die detaillierte Front und das halbrunde Design ziehen Blicke auf sich&#8230;",
+  "beschreibung": "Technische Daten: Gesamtbreite Front: ca. 3,6 m Tiefe: ca. 3,60 m Verkauföffnung ohne Ecksäulen moderner und funktionaler Innenausbau Front mit Airbrush und 3D-Optik ovaler Verkaufstresen mit Spuckschutz Arbeitsflächen in Edelstahl Schrankfronten matt Aluminiumrollos Wasser- und Elektroinstallation 2-Achs-Verkaufsanhänger Zugdeichsel seitlich abklappbar begehbares Dach zGG.: 2.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "360",
+    "gewichtLeer": "2500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-035-2016-frozen-yogurt-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/vf-035-2016_frozen_joghurt-_koch__peter__10__912.jpg?v=1765465371",
+      "alt": "Frozen Yogurt — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-035-2016-frozen-yogurt-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/vf-035-2016_frozen_joghurt-_koch__peter__2__836-scaled.jpg?v=1765465371",
+      "alt": "Frozen Yogurt — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-035-2016-frozen-yogurt-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/vf-035-2016_frozen_joghurt-_koch__peter__7__431-scaled.jpg?v=1765465371",
+      "alt": "Frozen Yogurt — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-035-2016-frozen-yogurt-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/vf-035-2016_frozen_joghurt-_koch__peter__8__928-scaled.jpg?v=1765465370",
+      "alt": "Frozen Yogurt — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-035-2016-frozen-yogurt/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

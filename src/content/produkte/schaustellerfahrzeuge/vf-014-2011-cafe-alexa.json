@@ -1,0 +1,88 @@
+{
+  "id": 3601,
+  "slug": "vf-014-2011-cafe-alexa",
+  "name": "Cafe &#8222;Alexa&#8220;",
+  "artikelnummer": "VF-014-2011",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2011,
+  "kurzbeschreibung": "(Produkt-Nr. VF-014-2011) Ein ganz neues Verkaufskonzept verspricht das harmonische und liebevoll bemalte &#8222;Cafe Alexa&#8220;. Mit ganz neuen Formen und auffälliger LED-Beschriftung ein absoluter Hingucker. Der moderne und funktionale Innenausbau wird allen Anforderungen des Alltages gerecht.",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 6,5 m Gesamthöhe: 4,5 m seitliche Glas-Schiebefenster moderner und funktionaler Innenausbau der Tischlerei Pfaff moderne Frontform abklappbares Vordach großer LED-Schriftzug Vordachkante mit LED Beleuchtung elektrische Aluminiumrollos Zugdeichsel seitlich abklappbar Räder hydraulisch Absenkbar zGG.: 3.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "650",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-014-2011-cafe-alexa-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0264_777-scaled.jpg?v=1765465597",
+      "alt": "Cafe &#8222;Alexa&#8220; — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-014-2011-cafe-alexa-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0346_378-scaled.jpg?v=1765465456",
+      "alt": "Cafe &#8222;Alexa&#8220; — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-014-2011-cafe-alexa-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0471_433-scaled.jpg?v=1765465426",
+      "alt": "Cafe &#8222;Alexa&#8220; — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-014-2011-cafe-alexa-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/img_7247_558-scaled.jpg?v=1765465554",
+      "alt": "Cafe &#8222;Alexa&#8220; — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-014-2011-cafe-alexa-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0394_287-scaled.jpg?v=1765465609",
+      "alt": "Cafe &#8222;Alexa&#8220; — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-014-2011-cafe-alexa-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0458_214-scaled.jpg?v=1765465604",
+      "alt": "Cafe &#8222;Alexa&#8220; — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-014-2011-cafe-alexa-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0590_914-scaled.jpg?v=1765465394",
+      "alt": "Cafe &#8222;Alexa&#8220; — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-014-2011-cafe-alexa-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0334_399-scaled.jpg?v=1765465585",
+      "alt": "Cafe &#8222;Alexa&#8220; — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-014-2011-cafe-alexa-9.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/dsc_0407_723-scaled.jpg?v=1765465565",
+      "alt": "Cafe &#8222;Alexa&#8220; — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-014-2011-cafe-alexa/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 4688,
+  "slug": "candyshop",
+  "name": "Candy Shop",
+  "artikelnummer": "VF-045-2022",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2022,
+  "kurzbeschreibung": "(Produkt-Nr. VF-045-2022) Eindeutiger kann man seine Ware nicht mit einem Verkaufsgeschäft präsentieren. Kräftige Farben, Airbrush-Bemalung und die Leuchtschrift &#8222;Candy-Shop&#8220; verleihen dem Geschäft seine ganz eigene Charakteristik.",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 9,0 m Tiefe: ca.2,5 m Gesamthöhe: <5,0 m moderner und funktionaler Innenausbau klappbare Front Seitenfronten hydraulisch klappber Dach begehbar mit hydraulisch klappbarer LED-Schrift Vordach hydraulisch klappbar Airbrush-Bemalung aufgesetzte Leuchtkastenelemente unterschiedlich tief für 3D-Effekt Fußboden im Mittelgang abgesenkt robuster Industriefußboden mit elektrischer Fußbodenheizung eine Verkaufsseite mit Festfenster andere Verkaufsseite mit Festfenster und Schiebetür, mit Rollo verschließbar große Verkaufsöffnungen mit festem Mittelpfosten aufschiebbare Theke mit integrierten Geräten gebogene Thekenscheiben klappbar elektrische Aluminiumrollos mit Nothandkurbel Rollokästen mit Einbaustrahlern zGG.: ca. 11.000 kg Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "900",
+    "gewichtLeer": "11000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/candyshop-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/VF-045-2022-4-scaled.jpg?v=1765465222",
+      "alt": "Candy Shop — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/candyshop-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/VF-045-2022-3-scaled.jpg?v=1765465222",
+      "alt": "Candy Shop — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/candyshop-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/VF-045-2022-6-scaled.jpg?v=1765465221",
+      "alt": "Candy Shop — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/candyshop-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/VF-045-2022-7-scaled.jpg?v=1765465221",
+      "alt": "Candy Shop — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/candyshop-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/07/VF-045-2022.jpg?v=1765465221",
+      "alt": "Candy Shop — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/candyshop/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

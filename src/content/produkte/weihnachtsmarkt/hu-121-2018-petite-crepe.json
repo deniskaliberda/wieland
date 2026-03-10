@@ -1,0 +1,52 @@
+{
+  "id": 3678,
+  "slug": "hu-121-2018-petite-crepe",
+  "name": "Petite Crêpe",
+  "artikelnummer": "HU-121-2018",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2018,
+  "kurzbeschreibung": "(Produkt-Nr. HU-121-2018) Ein mobiler kranbarer Verkaufscontainer, gebaut für die kleine Lücke in der Reihe. Mit Echtholzschindeln, Gaube, Fachwerk und Naturputz passt diese Hütte in fast jedes Marktkonzept&#8230;",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 4,00 m Continerlänge: 3,00 m Gesamttiefe: ca. 3,50 m (mit Vordach) elektrische Aluminiumrollos schiebbarer Tresen Spuckschutz und Handtaschenablage Dach mit Echtholzschindeln belegt Tümchen mit Ausleger und Gaube Wasser-, Gas-, Elektroinstallation Fachwerk aus Holz Fachwerkfüllung in Naturputz Lichtleisten mit Kugellampen Decke innen offen mit Stauraum und Leiter separater Gaskasten in Fachwerkoptik kranbar Aufbauzeit: ca. 10 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "400"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-121-2018-petite-crepe-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2018/12/CPF_3029_petite.jpg?v=1765465205",
+      "alt": "Petite Crêpe — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-121-2018-petite-crepe-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2018/12/cpf_3009_195-scaled.jpg?v=1765465340",
+      "alt": "Petite Crêpe — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-121-2018-petite-crepe-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2018/12/cpf_3011_420-scaled.jpg?v=1765465340",
+      "alt": "Petite Crêpe — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-121-2018-petite-crepe-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2018/12/CPF_3005-scaled.jpg?v=1765465206",
+      "alt": "Petite Crêpe — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-121-2018-petite-crepe/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

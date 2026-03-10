@@ -1,0 +1,73 @@
+{
+  "id": 4703,
+  "slug": "play-ground",
+  "name": "Play Ground",
+  "artikelnummer": "GC-002-2023",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "spielwagen",
+  "baujahr": 2023,
+  "kurzbeschreibung": "(Produkt-Nr. GC-002-2023) &#8222;Krall dir deinen Gewinn&#8220;&#8230; ist hier Programm. In dem knapp 14 m langen Geschäft kann man an 24 Greiferautomaten sein Glück versuchen!",
+  "beschreibung": "Technische Daten: Gesamtlänge: 13,5m Höhe: ca.6,1m aufgebaut 1 Stück 1-Achs-Fahraggregat (Vorderachse) 1 Stück 2-Achs-Fahraggregat (Hinterachse) Vordach mit klappbarer Vordachkante, an Ecken für den Transport demontierbar Frontelemente klappbar detailliertes Lichtkonzept mit zahlreichen Lichtleisten, LED Schrift, Konturbeleuchtung, Einbaucaps Dach begehbar, mit integriertem Stauraum 2 Stück Kassen mit LED Raumbeleuchtung, Schrank, Sitzgelegenheit, Arbeitsplatz, Heizung und Schiebescheibe Klimatisierung Arbeitsbeleuchtung unter Container einfaches Ausfahren und Einfahren der Geiferautomaten möglich robuster Industriefußbodenbelag an allen Seiten mittels elektrischer Rollos schließbar Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "1350"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/play-ground-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/GC-002-2023-2-scaled.jpg?v=1765465219",
+      "alt": "Play Ground — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/play-ground-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/GC-002-2023-1-scaled.jpg?v=1765465219",
+      "alt": "Play Ground — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/play-ground-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/GC-002-2023-3-scaled.jpg?v=1765465219",
+      "alt": "Play Ground — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/play-ground-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/GC-002-2023-6-scaled.jpg?v=1765465218",
+      "alt": "Play Ground — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/play-ground-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/GC-002-2023-4-scaled.jpg?v=1765465219",
+      "alt": "Play Ground — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/play-ground-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/GC-002-2023-7-scaled.jpg?v=1765465218",
+      "alt": "Play Ground — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/play-ground-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2024/08/GC-002-2023-5-scaled.jpg?v=1765465219",
+      "alt": "Play Ground — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/play-ground/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

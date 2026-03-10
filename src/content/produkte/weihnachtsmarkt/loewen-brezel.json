@@ -1,0 +1,74 @@
+{
+  "id": 5000,
+  "slug": "loewen-brezel",
+  "name": "Löwen Brezel",
+  "artikelnummer": "HU-147-2018",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2018,
+  "kurzbeschreibung": "(Produkt-Nr. HU-147-2018) Verschiedene Beleuchtungskonzepte und Lichtdesign bieten Potenzial für kreative Ideen. Das richtige Ambiente entsteht hier durch den Einsatz diverser Lichtquellen wie Hängeleuchten direkt über der Theke, eine LED-Werbeschrift oder durch unzählige Strahler und Kugellampen.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 5,0 m Gesamttiefe: ca. 2,25 m 2 Stück hydraulisch absenkbare Achsen elektrische Aluminiumrollos klappbare Zuggabel mittels Staukasten verkleidet Staukasten als Stehtisch nutzbar Vordach aus Aluminium mit Lichtleisten und Kugellampen Schiebetheke mit Glas + Glashaltern und Spuckschutz teilweise klappbare Arbeitsfläche Fachwerk gestaltete Putzflächen mit Modlierputz zwei Seitenfenster mit elektrischen Rollladen Dachraum innen offen klappbare LED-Werbeleuchtschrift beleuchtete Werbeschilder unterm Vordach Dach und Vordach mit GFK-Schindeln in eckiger Form Turm mit Aufsatzteil & Werbeausleger als Dekoelement Schneefangbalken auf dem Dach Wasser- und Abwasserleitungen mit Frostschutzheizung robuster Industriefußboden hochwertiger Innenausbau zGG: 3.500kg Aufbauzeit: ca. 30 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "500",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/loewen-brezel-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2025/08/HU-147-2018-5-scaled.jpg?v=1765465196",
+      "alt": "Löwen Brezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/loewen-brezel-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2025/08/HU-147-2018-1-scaled.jpg?v=1765465197",
+      "alt": "Löwen Brezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/loewen-brezel-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2025/08/HU-147-2018-3-scaled.jpg?v=1765465196",
+      "alt": "Löwen Brezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/loewen-brezel-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2025/08/HU-147-2018-4-scaled.jpg?v=1765465196",
+      "alt": "Löwen Brezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/loewen-brezel-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2025/08/HU-147-2018-5-scaled.jpg?v=1765465196",
+      "alt": "Löwen Brezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/loewen-brezel-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2025/08/HU-147-2018-6-scaled.jpg?v=1765465196",
+      "alt": "Löwen Brezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/loewen-brezel-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2025/08/HU-147-2018-7-scaled.jpg?v=1765465196",
+      "alt": "Löwen Brezel — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/loewen-brezel/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

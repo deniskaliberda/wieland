@@ -1,0 +1,59 @@
+{
+  "id": 4176,
+  "slug": "knusperhaus-ii",
+  "name": "Knusperhaus II",
+  "artikelnummer": "HU-124-2017",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2017,
+  "kurzbeschreibung": "(Produkt-Nr. HU-124-2018) Wie im Märchen der Gebrüder Grimm verspricht das Knusperhaus seinen Besuchern jede Menge süße Köstlichkeiten. Diese können an einem überdachten Seitentresen auch gleich vernascht werden!",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 9,0 m Gesamttiefe: ca. 3,80 m (mit Vordach) elektrische Aluminiumrollos hydraulisch schiebbarer Tresen Spuckschutz und Handtaschenablage Dach mit GFK-Schindeln Große rückleuchtende LED Werbeschrift klappbarer Dachaufbau Fachwerkfüllung und Bemalung Dachgaube mit Beleuchtung und Bemalung Dachfiguren und Turmaufsatz aus Aluminium Lichtleisten mit Kugellampen Stehbereich mit Seitendach hochwertiger Innenausbau Decke in Balkenoptik Hydraulikanlage für Abstützung, Vordach, Erker und Theke Aufbauzeit: ca. 60 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "900"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/knusperhaus-ii-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-124-2018-5-scaled.jpg?v=1765465274",
+      "alt": "Knusperhaus II — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/knusperhaus-ii-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-124-2018-1-scaled.jpg?v=1765465275",
+      "alt": "Knusperhaus II — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/knusperhaus-ii-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-124-2018-2-scaled.jpg?v=1765465275",
+      "alt": "Knusperhaus II — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/knusperhaus-ii-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-124-2018-3-scaled.jpg?v=1765465275",
+      "alt": "Knusperhaus II — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/knusperhaus-ii-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/HU-124-2018-4-scaled.jpg?v=1765465274",
+      "alt": "Knusperhaus II — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/knusperhaus-ii/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

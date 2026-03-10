@@ -1,0 +1,67 @@
+{
+  "id": 3592,
+  "slug": "vf-032-2015-nusszauber",
+  "name": "Nusszauber",
+  "artikelnummer": "VF-032-2015",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2015,
+  "kurzbeschreibung": "(Produkt-Nr. VF-032-2015) Verzaubert in zwei Welten&#8230;Auf der einen Seite der imposante Anblick verschiedener Fachwerkfronten gepaart mit bildhaften Erzählungen der Bremer Stadtmusikanten und Don Quijote. Anderseits die Welt der süßen Verlockungen mit all ihren Facetten&#8230; Dieses Geschäft fällt nicht nur durch Größe auf. Funktionalität ist nach wie vor ein Kriterium das auch hier umgesetzt wurde.",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 14,2 m Gesamttiefe: ca. 3,65 m hydraulisch absetzbarer Verkaufsanhänger mit aufklappbarer Front moderner und funktionaler Innenausbau ausschiebbare Verkaufstheke Arbeitsflächen in Edelstahl Kühl- und Wärmetheke Airbrush-Gestaltung an den Außenfronten dreiseitig offen elektrische Aluminiumrollos Wasser- und Elektroinstallation hydraulische Abstützung hydraulisches Vordach hydraulischer Dachhub Laufpodest hochfester Industriebelag 3-Achs-Drehschemel-Fahrgestell ein Transport zGG.: 11.000 kg Aufbauzeit: ca. 40 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "1420",
+    "gewichtLeer": "11000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-032-2015-nusszauber-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/nusszaubver_5_480-scaled.jpg?v=1765465435",
+      "alt": "Nusszauber — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-032-2015-nusszauber-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/nusszauber_214-scaled.jpg?v=1765465622",
+      "alt": "Nusszauber — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-032-2015-nusszauber-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/nusszauber_2_712-scaled.jpg?v=1765465390",
+      "alt": "Nusszauber — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-032-2015-nusszauber-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/nusszauber_1_898-scaled.jpg?v=1765465658",
+      "alt": "Nusszauber — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-032-2015-nusszauber-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/nusszauber_4_406-scaled.jpg?v=1765465410",
+      "alt": "Nusszauber — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-032-2015-nusszauber-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/nusszauber_3_737-scaled.jpg?v=1765465429",
+      "alt": "Nusszauber — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-032-2015-nusszauber/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

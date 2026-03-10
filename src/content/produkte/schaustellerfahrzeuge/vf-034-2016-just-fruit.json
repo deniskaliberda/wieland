@@ -1,0 +1,60 @@
+{
+  "id": 3590,
+  "slug": "vf-034-2016-just-fruit",
+  "name": "Just Fruit",
+  "artikelnummer": "VF-034-2016",
+  "kategorie": "schaustellerfahrzeuge",
+  "unterkategorie": "verkaufsfahrzeuge",
+  "baujahr": 2016,
+  "kurzbeschreibung": "(Produkt-Nr. VF-034-2016) Alles andere als traditionell&#8230;Schoko-Früchte im ganz neuen Design! Die Kombination aus LED-Licht und Material ermöglichen neue Konzepte und Ideen!",
+  "beschreibung": "Technische Daten: Gesamtbreite: ca. 8,0 m Gesamthöhe: 5,0 m Gesamttiefe: 5,0 m hydraulisch absetzbare Containerkonstruktion mit aufklappbarer Front integrierter Erker Faltanbau als Vorbereitungsraum moderner und funktionaler Innenausbau LED-Schrift und Beleuchtung Front in Tecu-Gold Airbrush Arbeitsinsel Arbeitsflächen in Edelstahl Kühltheke elektrische Aluminiumrollos Wasser- und Elektroinstallation hochfester Industriebelag im Arbeitsbereich zGG.: 10.000 kg Aufbauzeit: ca. 35 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "800",
+    "gewichtLeer": "10000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-034-2016-just-fruit-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/12/vf-034-2016__2__104.jpg?v=1765465375",
+      "alt": "Just Fruit — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-034-2016-just-fruit-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/12/vf-034-2016__3__917.jpg?v=1765465374",
+      "alt": "Just Fruit — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-034-2016-just-fruit-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/12/vf-034-2016__1__830.jpg?v=1765465374",
+      "alt": "Just Fruit — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-034-2016-just-fruit-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/12/vf-034-2016__4__390.jpg?v=1765465375",
+      "alt": "Just Fruit — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/schaustellerfahrzeuge/vf-034-2016-just-fruit-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/12/vf-034-2016__5__266.jpg?v=1765465374",
+      "alt": "Just Fruit — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/vf-034-2016-just-fruit/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

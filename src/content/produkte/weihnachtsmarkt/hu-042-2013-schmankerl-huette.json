@@ -1,0 +1,60 @@
+{
+  "id": 3742,
+  "slug": "hu-042-2013-schmankerl-huette",
+  "name": "Schmankerl-Hütte",
+  "artikelnummer": "HU-042-2013",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2013,
+  "kurzbeschreibung": "(Produkt-Nr. HU-042-2013) Ein weiteres rustikales Schmuckstück, das sich jeder Gegebenheit anpassen kann! Als Imbiss eingerichtet, lässt die hochwertige und funktionale Küche kaum Wünsche offen. Egal wann und wo Sie Ihre Schmankerl zubereiten wollen, dieses Verkaufsgeschäft ist der ideale Begleiter&#8230;",
+  "beschreibung": "Technische Daten: Gesamtlänge Hütte: ca. 5,9 m Gesamttiefe: ca. 3,4 m ausschiebbare Verkaufstheke drei Verkaufsöffnungen Gas-, Wasser-, Elektroinstallation Dach mit GFK-Schindeln in Holzoptik belegt Schmuckschornstein, Gauben Lichtleisten mit Kugellampen elektrische Aluminiumrollos hochwertiger Innenausbau der Tischlerei Pfaff elektrohydraulisch absenkbare Achse zGG.: 3.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "590",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-042-2013-schmankerl-huette-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu_042-2013__1__666-scaled.jpg?v=1765465487",
+      "alt": "Schmankerl-Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-042-2013-schmankerl-huette-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu_042-2013__2__720-scaled.jpg?v=1765465454",
+      "alt": "Schmankerl-Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-042-2013-schmankerl-huette-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu_042-2013__3__990-scaled.jpg?v=1765465452",
+      "alt": "Schmankerl-Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-042-2013-schmankerl-huette-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu_042-2013__5__576-scaled.jpg?v=1765465624",
+      "alt": "Schmankerl-Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-042-2013-schmankerl-huette-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/hu_042-2013__4__305-scaled.jpg?v=1765465396",
+      "alt": "Schmankerl-Hütte — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-042-2013-schmankerl-huette/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": 3730,
+  "slug": "hu-033-2011-schlemmer-haeusle",
+  "name": "Schlemmer Häusle",
+  "artikelnummer": "HU-033-2011",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2011,
+  "kurzbeschreibung": "(Produkt-Nr. HU-033-2011) Auf rund zwanzig Quadratmetern wird im Schlemmer Häusle frisch gebraten und gebacken. Die sechs Meter lange Verkaufsöffnung gibt der Kundschaft einen großzügigen Einblick und kann nach getaner Arbeit mittels Elektrorollo einfach verschlossen werden.",
+  "beschreibung": "Technische Daten: Gesamtlänge Hütte: ca. 7 m Gesamttiefe: ca. 4,4 m ausschiebbare Verkaufstheke ausschiebbarer Erker drei Verkaufsöffnungen Gas-, Wasser-, Elektroinstallation Arbeitsfläche in Edelstahl durchgängige Dunstabzugshaube hydraulische Abstützung hydraulischer Erker Mitteltresen Dach mit GFK-Schindeln Lichtleisten mit Kugellampen elektrische Aluminiumrollos hochwertiger Innenausbau separates Achsaggregat zGG.: 10.000 kg Aufbauzeit: ca. 13 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "700",
+    "gewichtLeer": "10000"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-033-2011-schlemmer-haeusle-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/weihnachtsmarkt_schlemmer_haus_schausteller_kirmes_huette_winter__1__567-scaled.jpg?v=1765465651",
+      "alt": "Schlemmer Häusle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-033-2011-schlemmer-haeusle-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/weihnachtsmarkt_schlemmer_haus_schausteller_kirmes_huette_winter__2__164-scaled.jpg?v=1765465412",
+      "alt": "Schlemmer Häusle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-033-2011-schlemmer-haeusle-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/weihnachtsmarkt_schlemmer_haus_schausteller_kirmes_huette_winter__4__330-scaled.jpg?v=1765465437",
+      "alt": "Schlemmer Häusle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-033-2011-schlemmer-haeusle-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/weihnachtsmarkt_schlemmer_haus_schausteller_kirmes_huette_winter__5__808-scaled.jpg?v=1765465472",
+      "alt": "Schlemmer Häusle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-033-2011-schlemmer-haeusle-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/weihnachtsmarkt_schlemmer_haus_schausteller_kirmes_huette_winter__6__638-scaled.jpg?v=1765465552",
+      "alt": "Schlemmer Häusle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-033-2011-schlemmer-haeusle-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/weihnachtsmarkt_schlemmer_haus_schausteller_kirmes_huette_winter__7__215-scaled.jpg?v=1765465642",
+      "alt": "Schlemmer Häusle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-033-2011-schlemmer-haeusle-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2016/08/weihnachtsmarkt_schlemmer_haus_schausteller_kirmes_huette_winter__3__538-scaled.jpg?v=1765465658",
+      "alt": "Schlemmer Häusle — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-033-2011-schlemmer-haeusle/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": 4243,
+  "slug": "mobile-sauna",
+  "name": "Mobile Sauna",
+  "artikelnummer": "SF-013-2020",
+  "kategorie": "sonderbau",
+  "unterkategorie": "sonderfahrzeuge-sonderbauten",
+  "baujahr": 2020,
+  "kurzbeschreibung": "(Produkt-Nr. SF-013-2020) Auf nichts verzichten auch auf Reisen&#8230;getreu diesem Motto setzen wir Ideen und Projekte um. Diese mobile Sauna macht es möglich unterwegs nach einem langen Arbeitstag die Seele baumeln zu lassen.",
+  "beschreibung": "Technische Daten: Länge: ca. 4,5 m Breite: ca. 2,2 m Saunavorraum mit Waschbecken große Sichtfenster in Vorraum und Sauna abgetrennte Duschecke hochwertiger Innenausbau RGB-Beleuchtung Alle Produkte sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "450"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/sonderbau/mobile-sauna-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/MobilSauna-01-scaled.jpg?v=1765465263",
+      "alt": "Mobile Sauna — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/mobile-sauna-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/MobilSauna-02-scaled.jpg?v=1765465262",
+      "alt": "Mobile Sauna — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/mobile-sauna-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/MobilSauna-04-scaled.jpg?v=1765465262",
+      "alt": "Mobile Sauna — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/mobile-sauna-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/MobilSauna-05-scaled.jpg?v=1765465262",
+      "alt": "Mobile Sauna — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/mobile-sauna-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/MobilSauna-06-scaled.jpg?v=1765465262",
+      "alt": "Mobile Sauna — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/mobile-sauna-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/MobilSauna-07-scaled.jpg?v=1765465261",
+      "alt": "Mobile Sauna — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/mobile-sauna-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/MobilSauna-08-scaled.jpg?v=1765465261",
+      "alt": "Mobile Sauna — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/mobile-sauna-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/MobilSauna-10-scaled.jpg?v=1765465261",
+      "alt": "Mobile Sauna — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/mobile-sauna/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 3688,
+  "slug": "hu-104-2017-xxl-spiesse",
+  "name": "XXL-Spiesse",
+  "artikelnummer": "HU-104-2017",
+  "kategorie": "weihnachtsmarkt",
+  "unterkategorie": "rustikalehuetten",
+  "baujahr": 2017,
+  "kurzbeschreibung": "(Produkt-Nr. HU-104-2017) Wer sagt das jede rustikale Fachwerkhütte gleich aussieht, wird hier eines besseren belehrt. Allein der Mut zur Farbe hebt diese Hütte im Vergleich zu anderen Ihrer Art hervor&#8230;.",
+  "beschreibung": "Technische Daten: Gesamtlänge: ca. 6,00 m Gesamttiefe: ca. 3,60 m (mit Vordach) Wasser-, Elektroinstallation Fachwerkoptik mit Airbrush-Bemalung Lichtleisten mit Kugellampen Kupfer-Dachrinnen elektrische Aluminiumrollos schiebbarer Tresen Spuckschutz und Handtaschenablage Dach mit GFK-Schindeln LED-Leuchtschrift klappbar schmiedeeiserner Ausleger und Dachgaube hochwertiger Innenausbau klappbare Zugdeichsel hydraulisch absenkbar zGG.: 3.500 kg Aufbauzeit: ca. 15 Minuten Alle Fahrzeuge sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "600",
+    "gewichtLeer": "3500"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-104-2017-xxl-spiesse-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/hu-104-2017__1__573.jpg?v=1765465367",
+      "alt": "XXL-Spiesse — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-104-2017-xxl-spiesse-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/hu-104-2017__6__946.jpg?v=1765465368",
+      "alt": "XXL-Spiesse — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-104-2017-xxl-spiesse-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/hu-104-2017__3__900.jpg?v=1765465368",
+      "alt": "XXL-Spiesse — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-104-2017-xxl-spiesse-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/hu-104-2017__4__195.jpg?v=1765465367",
+      "alt": "XXL-Spiesse — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/weihnachtsmarkt/hu-104-2017-xxl-spiesse-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2017/04/hu-104-2017__8__681.jpg?v=1765465368",
+      "alt": "XXL-Spiesse — Weihnachtsmarkthuette von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/hu-104-2017-xxl-spiesse/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": 4253,
+  "slug": "haix-tower-2-0",
+  "name": "HAIX Tower 2.0",
+  "artikelnummer": "SF-014-2021",
+  "kategorie": "sonderbau",
+  "unterkategorie": "sonderfahrzeuge-sonderbauten",
+  "baujahr": 2021,
+  "kurzbeschreibung": "(Produkt-Nr. SF-014-2021) Revolutionäre Sonderanfertigung! Dieser mobile Feuerwehrwettkampfturm ermöglicht es den Feuerwehrsport flexibler zu gestalten. Ein Aufbau direkt vor Ort, egal ob auf einer Messe, Veranstaltung oder sogar an sonst schwer zugänglichen Flächen wie Innenstädten ist möglich.",
+  "beschreibung": "Technische Daten: Höhe aufgebaut: ca. 12,6 m Länge fahrbereit: ca. 14,9 m Transport auf 5-achsigem LKW-Auflieger 60 Stufen auf drei Stockwerken Ballstierung durch Wassertank mobiler, komplett hydraulischer Wettkampfturm Alle Produkte sind auf Kundenwunsch gefertigt, und werden an Ihre Vorstellungen und Bedürfnisse angepasst.",
+  "beschreibungSeo": "",
+  "technischeDaten": {
+    "laenge": "1260"
+  },
+  "bilder": [
+    {
+      "src": "/images/produkte/sonderbau/haix-tower-2-0-1.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-014-2021-12.jpg?v=1765465260",
+      "alt": "HAIX Tower 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/haix-tower-2-0-2.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-014-2021-1-scaled.jpg?v=1765465261",
+      "alt": "HAIX Tower 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/haix-tower-2-0-3.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-014-2021-3-scaled.jpg?v=1765465260",
+      "alt": "HAIX Tower 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/haix-tower-2-0-4.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-014-2021-5-scaled.jpg?v=1765465260",
+      "alt": "HAIX Tower 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/haix-tower-2-0-5.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-014-2021-7.jpg?v=1765465260",
+      "alt": "HAIX Tower 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/haix-tower-2-0-6.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-014-2021-2-scaled.jpg?v=1765465261",
+      "alt": "HAIX Tower 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/haix-tower-2-0-7.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-014-2021-13-scaled.jpg?v=1765465259",
+      "alt": "HAIX Tower 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    },
+    {
+      "src": "/images/produkte/sonderbau/haix-tower-2-0-8.jpg",
+      "originalSrc": "https://www.fahrzeugbau-pfaff.de/wp-content/uploads/2022/07/SF-014-2021-10.jpg?v=1765465260",
+      "alt": "HAIX Tower 2.0 — Spezialfahrzeug von Marko Pfaff",
+      "breite": 1200,
+      "hoehe": 800
+    }
+  ],
+  "permalink": "https://www.fahrzeugbau-pfaff.de/produkt/haix-tower-2-0/",
+  "preis": {
+    "regular": "0",
+    "sale": "0",
+    "currency": "EUR"
+  },
+  "verwandteProdukte": []
+}
